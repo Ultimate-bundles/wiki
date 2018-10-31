@@ -1,5 +1,5 @@
 <!-- TITLE: Facebook Ads -->
-<!-- SUBTITLE: Tips and Tricks that work -->
+<!-- SUBTITLE: Tips, Tricks & Results -->
 
 # Facebook Ads
 
