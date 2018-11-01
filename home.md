@@ -16,12 +16,16 @@ H3 = Sub-headers
 
 Here's an example:
 
+
+```text
 H1: Facebook Ads
-		H2: How to create Facebook ads
-				H3: Setting up ad groups
-				H3: Split testing
-		H2: How to optimize Facebook ads
-				H3: Best tricks for tweaking ads
-		H2: How to measure Facebook ads 
-				H3: Adding results to Google sheet
+    H2: How to create Facebook ads
+        H3: Setting up ad groups
+        H3: Split testing
+    H2: How to optimize Facebook ads
+        H3: Best tricks for tweaking ads
+    H2: How to measure Facebook ads 
+        H3: Adding results to Google sheet
+```
+
 				
