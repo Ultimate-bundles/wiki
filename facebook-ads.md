@@ -75,8 +75,7 @@ Ad Groups:
 * Past UHOMB purchasers (excluding 2018)
 * Past HEO purchasers (excluding 2018)
 * Lookalike UHOMB2018 purchasers
-* Interest group x 4 (homemaking, self care, faith, homeschooling)
-* Author followers (Ruth, Mamma Natural, Tsh, Wardee, Crystal Paine (Money saving Mom), The Dating Divas, Abby Lawson, Becky Mansfield, Rosemary Groener, Heather Schisler)
+* Page followers: Money saving mom, Mama Natural, Lysa TerKeust, Lolly Wolly Doodle, Scholastic Parents, Organize yourself skinny, The humbled homemaker, Joanna Fabric Store, The Country Cook, The Good Old Days, Homemaking, Faith, Self Care, Homemaking.
 
 
 
