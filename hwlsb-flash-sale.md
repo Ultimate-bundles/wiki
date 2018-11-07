@@ -1,4 +1,4 @@
-<!-- TITLE: Hwlsb Flash Sale -->
+<!-- TITLE: HWLSB Flash Sale -->
 <!-- SUBTITLE: All details surrounding HWLSB2018 Flash Sale -->
 
 ## History
