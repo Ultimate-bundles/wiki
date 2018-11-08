@@ -16,6 +16,10 @@ Link to the original details sheet: https://docs.google.com/spreadsheets/d/1VD4H
 ## Supporting documentation
 Testing process: https://www.sweetprocess.com/procedures/KWbPeUzko2/hwlsb-flash-sale-testing/
 
+## Flash sale dates
+**Starting date**: Monday 12 November @ 12am
+**Finishing date:** Wednesday 12 November @ 12am 
+
 ## Goals
 TBC
 
