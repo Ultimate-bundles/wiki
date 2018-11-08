@@ -9,7 +9,7 @@ This will the last sale we run on shop.ultimate-bundles.com and we will not be b
 Link to the original details sheet: https://docs.google.com/spreadsheets/d/1VD4H-SK0-M2OMkTHfwLuBrkitn3xo1mFdhKSU-db3xQ/edit#gid=2131244576
 
 ## Flash sale setup
-**Sales page**: shop.ultimate-bundles.com/hwlsb2017
+**Sales page**: shop.ultimate-bundles.com/hwlsb2017?content=option_1
 **Upsell page**: https://ultimatebundles.com/sale/hwlsb2018-oto
 **Success page**: https://shop.ultimate-bundles.com/hwlsb2017/order/success
 
