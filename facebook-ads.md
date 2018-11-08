@@ -146,6 +146,7 @@ Ad groups:
 * Interest: spinning
 * Interest: cross stitching
 * Interest: embroidery
+* Author followers.
 
 
 
