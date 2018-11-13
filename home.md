@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+<!-- TITLE: 1.0.Home -->
 <!-- SUBTITLE: Welcome to the wiki -->
 
 # Wiki Overview
