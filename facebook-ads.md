@@ -1,4 +1,4 @@
-<!-- TITLE: /Advertising/Facebook Ads -->
+<!-- TITLE: Facebook Ads -->
 <!-- SUBTITLE: Tips, Tricks & Results !-->
 
 # Facebook Ads
