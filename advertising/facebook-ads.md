@@ -148,68 +148,6 @@ Ad groups:
 * Interest: embroidery
 * Author followers.
 
-## HMPB2019
 
-Performing ad groups: 
-* retargeting
-* UHLB email list
-* UHOMB email list
-* Healthy bootcamp
-* HMPB webinar
-
-Best performing copy
-
-Ad 1
-`The Ultimate Healthy Meal Planning Bundle is OPEN!
-Are you tired of resorting to convenience foods because you’re short on time, always scrambling to make something decent for your family out of what’s in your fridge or feeling like cooking is a burden instead of a joy?
-Cooking doesn’t have to be a chore. When you know what you want to make, and have the right ingredients, it can even be fun. With 3,800 fresh, healthy recipes to choose from you will know exactly what’s for dinner and what you need to make it happen.
-This collection values over $102, but you pay just $27 per mini bundle. Want all 10 categories and you pay just $20 more! We guarantee this bundle is the busy cook’s answer to eating healthier this year. 
-The Ultimate Healthy Meal Planning Bundle is PACKED with information and has everything needed to simplify mealtimes and help you eat better, even when life feels chaotic!
-Click Learn More for full details!`
-
-Image: https://www.dropbox.com/s/4x0v0ewi4ljp559/hmpb2017-best-image.jpg?dl=0
-
-Ad 2
-
-`Before you know it, the afternoon is here. All the meat in the house is still frozen and you find yourself scrambling to make something decent out of what’s in your fridge. Cue the mealtime stress and chaos. We’ve all been there.
-Cooking doesn’t have to feel like a chore. When you know what you want to make, and have the right ingredients, it can even be fun. But planning ahead for every meal takes a lot of time and work. 
-At Ultimate Bundles we know your free time is limited and how important it is to feed your family a well-rounded diet filled with the nutrition they need, and that is why we created this bundle for you.
-With over 3,800 fresh, healthy recipes The Ultimate Healthy Meal Planning Bundle is the perfect combination of digital cookbooks, ready-made meal plans, shopping lists and kitchen tips that will help you simplify mealtimes and eat better (even when life feels chaotic).  
-So stop feeling like cooking is a burden instead of a joy, make dinner time less stressful and be in control with what your family is eating...because life is better when you know what’s for dinner!
-Click Learn More for full details!`
-
-Image: https://www.dropbox.com/s/b1md7n6k3xbbp72/hmpb-second-best-image.jpg?dl=0
-
-Ad 3
-`2 DAY FLASH SALE | Ultimate Healthy Meal Planning Bundle 2018 | Back for 48 hours Only
-In a cooking rut?  4,099 fresh, healthy recipes to pull you out of it.
-🍉10 gluten free eCookbooks 
-🍉12 Quick & Healthy eCookbooks
-🍉10 Budget Meal eCookbooks
-🍉11 Freezer & Batch Cooking eCookbooks
-🍉9 Ketogenic eCookbooks
-🍉11 Slow Cooker & Instant Pot eCookbooks 
-🍉10 Paleo eCookbooks
-🍉9 Vegan eCookbooks
-🍉12 Real Food eCookbooks
-🍉10 Meal Planning How-to's 
-Plus, each one comes with 4 weeks of made-for-you meal plans.
-101 eCookbooks worth $1155.22. Get lifetime access for one payment of $47.
-Click here to learn more.`
-
-https://www.dropbox.com/s/e34uzilqhvbi8m4/another-good-image-ad.jpg?dl=0
-
-Ad 4
-`Wouldn't it be nice to feel more on top of things in the kitchen? Like what to cook with ingredients you already have and make food that not only tastes good but matches your dietary needs and preferences.
-Introducing the Ultimate Healthy Meal Planning Bundle 2018.  Back for 2 days only.
-This bundle is for you if you're tired of:
-🍅 Scrambling to make something decent out of what's in your fridge
-🍅 Resorting to compromise or convenience foods because you're short on time
-🍅 Battling weight gain and feeling discouraged that the family isn't eating better
-🍅 Wasting money on restaurant, food that goes bad or too many last-minute grocery runs
-🍅 Feeling like cooking is a burden instead of a job
-Click here to learn more.`
-
-https://www.dropbox.com/s/e34uzilqhvbi8m4/another-good-image-ad.jpg?dl=0
 
 
