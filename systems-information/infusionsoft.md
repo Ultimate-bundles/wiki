@@ -9,7 +9,7 @@ This wiki article will detail the information that we've extracted from Infusion
 ## Infusionsoft reports
 `GENERAL`
 * List of bundles and products from 2014 to 2018: https://docs.google.com/spreadsheets/d/1THCsbdx2hmE77aJZghaBYiFb-ytlfRejlbjcnw5QjKs/edit#gid=730860131
-* Revenue per year
+* Revenue per year:
 
 `AFFILIATE SPECIFIC`
 * Affiliate earnings per year:
