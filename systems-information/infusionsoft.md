@@ -106,7 +106,55 @@ This wiki article will detail the information that we've extracted from Infusion
 * All transactions:
 
 `AFFILIATE SPECIFIC`
-* All affiliate ledgers: 	
+* All affiliate ledgers:
+
+`CONQUER YOUR CLUTTER SUPER BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`FITNESS BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`GUT HEALTH SUPER BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`HERBS AND ESSENTIAL OILS SUPER BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`PARENTING SUPER BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`ULTIMATE HOMEMAKING BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`ULTIMATE PHOTOGRAPHY BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`ULTIMATE WORK AT HOME BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`FOOD ALLERGY FREEDOM BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`ULTIMATE HEALTHY LIVING BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`THE GENIUS BLOGGER'S TOOLKIT 2017`
+* Sales report: 
+* Affiliate commission report:
+
+`HANDMADE WITH LOVE SUPER BUNDLE 2017`
+* Sales report: 
+* Affiliate commission report:
 
 ## 2018
 `SUMMARY REPORTS FOR 2015`
