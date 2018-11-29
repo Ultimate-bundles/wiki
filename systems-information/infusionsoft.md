@@ -6,6 +6,13 @@ Infusionsoft was the primary CRM/affiliate management system for Ultimate Bundle
 ## Backed up data
 This wiki article will detail the information that we've extracted from Infusionsoft and how to easily access that information.  Infusionsoft reports will be extracted and saved in Google sheets and organized in Google drive.  Descriptions of the kind of information we've exported and how to access it will live in this wiki.
 
+## Reporting considerations
+Since 2013 there have been a lot of sales.  Until recently most of them haven't been documented particularly well.  This means capturing all sale dates in reports will be very difficult.  For instance, running a report for UHOMB2015 transactions will show bundles being sold across different parts of the year (pre-sale, regular sale, flash sale).  
+
+The product naming structure has not always been consistent and there are a number of products that have ambigulous names and may not actually be tied to a sale.  Whether to include these products or not in the reports for a particular sale has been made off educated guesses.
+
+When running the affiliate ledger report, Infusionsoft spits out every affiliate and their balance.  There doesn't seem to be a way to limit the report to just affiliates that took part in a sale without filtering the data manually through Excel/Google Sheets.
+
 ## Infusionsoft reports
 `GENERAL`
 * List of bundles and products from 2014 to 2018: https://docs.google.com/spreadsheets/d/18rxHSk0M0inwD6t9hbBeN52Lj1uz1ZTU8Fu304QfCjk/edit#gid=0
@@ -162,4 +169,25 @@ This wiki article will detail the information that we've extracted from Infusion
 
 `AFFILIATE SPECIFIC`
 * All affiliate ledgers: 	
+
+`HERBS AND ESSENTIAL OILS 2018`
+* Sales report: 
+* Affiliate commission report:
+
+`HEALTHY MEAL PLANNING BUNDLE 2018`
+* Sales report: 
+* Affiliate commission report:
+
+`UB FEST 2018`
+* Sales report: 
+* Affiliate commission report:
+
+`ULTIMATE HOMEMAKING BUNDLE 2018`
+* Sales report: 
+* Affiliate commission report:
+
+`ULTIMATE DIGITAL PHOTOGRAPHY BUNDLE 2018`
+* Sales report: 
+* Affiliate commission report:
+
 
