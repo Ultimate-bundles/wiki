@@ -8,41 +8,66 @@ This wiki article will detail the information that we've extracted from Infusion
 
 ## Infusionsoft reports
 `GENERAL`
-* List of bundles and products from 2014 to 2018: https://docs.google.com/spreadsheets/d/1THCsbdx2hmE77aJZghaBYiFb-ytlfRejlbjcnw5QjKs/edit#gid=730860131
-* Revenue per year:
+* List of bundles and products from 2014 to 2018: https://docs.google.com/spreadsheets/d/18rxHSk0M0inwD6t9hbBeN52Lj1uz1ZTU8Fu304QfCjk/edit#gid=0
+* Revenue by summarized product and year 2013 to 2018: https://docs.google.com/spreadsheets/d/1P6yCHDOd-fY_WBsILCA_iCuCrzc0VQ9M_7-lk_8pqBA/edit?usp=sharing
+* List of contacts: 
+
+## 2013
+`SUMMARY REPORTS FOR 2013`
+* All transactions:  https://docs.google.com/spreadsheets/d/17zSxRe2po59a8KvsF4qNHsU1xHPBd918DG61ajy9_5w/edit?usp=sharing
 
 `AFFILIATE SPECIFIC`
-* Affiliate earnings per year:
-* List of all affiliates:
+* All affiliate ledgers: https://docs.google.com/spreadsheets/d/1kmvetc8l3Ao1UbBFmMv2FLvj4pZr4u3kXQiS9QQVxZs/edit?usp=sharing
 
-`2014 SALES`
-Ultimate Homemaking Bundle 2014 (UHOMB2014)
-* Sales / past purchasers report: 
-* Refunds report: 
-* Affiliate commissions report:
-* Revenue report:
-* List of products and their prices:
+`ULTIMATE HEALTHY LIVING BUNDLE 2013`
+* Sales report: https://docs.google.com/spreadsheets/d/17zSxRe2po59a8KvsF4qNHsU1xHPBd918DG61ajy9_5w/edit?usp=sharing (note this is all transactions for 2013.  Use the product column to filter out the Homemaking Bundle products to limit this report to only the Ultimate Healthy Living Bundle).
+* Affiliate commission report: 
 
-Ultimate Christian Living Bundle 2014 (UCLB2014)
-* Sales / past purchasers report: 
-* Refunds report: 
-* Affiliate commissions report:
-* Revenue report:
-* List of products and their prices:
+## 2014
 
-Ultimate Healthy Living Bundle 2014 (UHLB2014)
-* Sales / past purchasers report: 
-* Refunds report: 
-* Affiliate commissions report:
-* Revenue report:
-* List of products and their prices:
+`SUMMARY REPORTS FOR 2014`
+* All transactions:
 
-`2015 SALES`
+`AFFILIATE SPECIFIC`
+* All affiliate ledgers: 	
 
-`2016 SALES`
+`ULTIMATE HOMEMAKING BUNDLE 2014 (UHOMB2014)`
+* Sales report: 
+* Affiliate commission report: 
 
-`2017 SALES`
+`ULTIMATE CHRISTIAN LIVING BUNDLE 2014 (UCLB2014)`
+* Sales report: 
+* Affiliate commission report: 
 
-`2018 SALES`
+`ULTIMATE HEALTHY LIVING BUNDLE 2014 (UHLB2014) `
+* Sales report: 
+* Affiliate commission report: 
 
+## 2015
+`SUMMARY REPORTS FOR 2015`
+* All transactions:
+
+`AFFILIATE SPECIFIC`
+* All affiliate ledgers: 	
+
+## 2016
+`SUMMARY REPORTS FOR 2015`
+* All transactions:
+
+`AFFILIATE SPECIFIC`
+* All affiliate ledgers: 	
+
+## 2017
+`SUMMARY REPORTS FOR 2015`
+* All transactions:
+
+`AFFILIATE SPECIFIC`
+* All affiliate ledgers: 	
+
+## 2018
+`SUMMARY REPORTS FOR 2015`
+* All transactions:
+
+`AFFILIATE SPECIFIC`
+* All affiliate ledgers: 	
 
