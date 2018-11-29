@@ -50,12 +50,56 @@ This wiki article will detail the information that we've extracted from Infusion
 `AFFILIATE SPECIFIC`
 * All affiliate ledgers: 	
 
+`ULIMATE DIY BUNDLE 2015 `
+* Sales report: 
+* Affiliate commission report: 
+
+`ULTIMATE HEALTHY LIVING BUNDLE 2015`
+* Sales report: 
+* Affiliate commission report: 
+
+`ULTIMATE HOMEMAKING BUNDLE 2015`
+* Sales report: 
+* Affiliate commission report: 
+
+`ULTIMATE PHOTOGRAPHY BUNDLE 2015`
+* Sales report: 
+* Affiliate commission report: 
+
 ## 2016
 `SUMMARY REPORTS FOR 2015`
 * All transactions:
 
 `AFFILIATE SPECIFIC`
 * All affiliate ledgers: 	
+
+`HERBS AND ESSENTIAL OILS SUPER BUNDLE 2016`
+* Sales report: 
+* Affiliate commission report:
+
+`THE GENIUS BLOGGER'S TOOLKIT 2016`
+* Sales report: 
+* Affiliate commission report:
+
+`THE ULTIMATE HEALTHY LIVING BUNDLE 2016`
+* Sales report: 
+* Affiliate commission report:
+
+`CHRISTMAS GIFT CERTFICATE BUNDLE 2016`
+* Sales report: 
+* Affiliate commission report:
+
+`ULTIMATE DIGITAL PHOTOGRAPHY BUNDLE 2016`
+* Sales report: 
+* Affiliate commission report:
+
+`ULTIMATE HOMEMAKING BUNDLE 2016`
+* Sales report: 
+* Affiliate commission report:
+
+`ULTIMATE STARTUP BUNDLE 2016`
+* Sales report: 
+* Affiliate commission report:
 
 ## 2017
 `SUMMARY REPORTS FOR 2015`
