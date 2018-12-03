@@ -28,4 +28,9 @@ H1: Facebook Ads
         H3: Adding results to Google sheet
 ```
 
+https://cdn.ultimatebundles.com/2018/PHOSB2018/Lead%20Magnet%20Assets/Headline_A_photographers_gonna_get_you_Tablet.png
+
+
+
+
 				
