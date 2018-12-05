@@ -1,5 +1,5 @@
-<!-- TITLE: Monthly Lead Magnet Opt-In System -->
-<!-- SUBTITLE: A quick summary of how Monthly Lead Magnet opt-ins work -->
+<!-- TITLE: Opt-In Systems -->
+<!-- SUBTITLE: A quick summary of how opt-ins work in Active Campaign -->
 
 ## Landing Page
 The first step of every opt-in, is the landing page. These pages are made in [Divi](http://wiki.ultimatebundles.com/systems-information/divi), and will have a URL like https://ultimatebundles.com/sale/landing-page-slug.
