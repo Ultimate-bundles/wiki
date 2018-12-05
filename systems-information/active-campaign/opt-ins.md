@@ -45,6 +45,10 @@ input {
 	line-height: 36px !important;
 	margin-bottom: 20px !important;
 }
+.ub_disclaimer {
+	color: white;
+	text-align: center;
+}
 ```
 
 **AC Branding**
@@ -68,6 +72,15 @@ Simply copy and paste the Full Embed code into a code block on the landing page.
 If the form has any hidden fields, this is also the time to put the values into those fields. Here's an example from the Notify Me form:
 
 `<input type="hidden" name="field[21]" value="custom value here" />`
+
+Further, if the page doesn't already have an opt-in disclaimer (fine print) and link to the privacy policy, include the following immediately before `<div class="_form-thank-you" style="display:none;">`:
+
+```
+<div><p class="ub_disclaimer">Your email is safe with us. We hate spam, too. By providing your email, you'll receive bundle notifications, updates and newsletters from Ultimate Bundles. You can unsubscribe any time you want.
+<br><a href="https://ultimatebundles.com/privacy-policy">Privacy Policy</a></p></div>
+```
+
+Of course, adjust the wording so that it makes sense with the opt-in and any lead magnet being offered.
 
 ## Automation
 Typically after a form submit, an automation needs to be triggered. This can be done using a tag (applied in the form action section, and then added as a start trigger for the automation) or using the "contact submits a form" action.
