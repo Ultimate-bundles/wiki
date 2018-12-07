@@ -1,14 +1,15 @@
-<!-- TITLE: 1.0.Home -->
+<!-- TITLE: Getting Started Guide -->
 
-# Getting Started Guide
 Welcome to the Ultimate Bundle wiki.  Don't panic, there's a lot of information here to help you navigate the wiki and create your own articles.
 
-## Purpose of the wiki
+# Purpose of the wiki
 
 The point of this platform is to record any information that really should live somewhere that the rest of the team can access it.  This extends to things like contact details, technical decisions, hosting details, sales records, etc.  Anything that has historical significance and needs a place to live should get documented here.
 
-## Basics of the wiki
-1. The wiki is divided into Wikis and Pages. Inside a wiki, you can create a hierarchy of pages, by creating pages inside other pages. This feature is called **Nested Pages.** Nested Pages can be created when naming your article by adding a directory name before the article name, like this:
+# Basics of using the wiki
+1. You can create a new page by clicking the `+create` button in the top right corner. hierarchy of pages, by creating pages inside other pages.
+
+![alt text](https://cdn.ultimatebundles.com/Wiki-content/getting-started-guide/getting-started-guide-image3.PNG "creating articles image") 
 
  `management-documents/my-article-name`,
 
@@ -18,19 +19,19 @@ where `management-documents` would be the wiki and `my-article-name` would be th
 4. At the top of the page you'll find a search bar that will let you quickly look for an existing article.
 5. While in a wiki or nested page, the left navigation menu will have a number of anchor links that you can click to jump to corresponding points in the content.
 
-## How to use markdown (how to format text)
+# How to use markdown (how to format text)
 This wiki uses a special kind of text formatting called markdown.  Markdown is a lightweight markup language with plain text formatting syntax. 
 
 [Here's how to use the most common features of markdown](http://wiki.ultimatebundles.com/templates/syntax-examples)
 
 [You can review the full documentation here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## Style guide
+# Style guide
 Please read the style guide:
 
 This guide will run over the basics of formatting and how to write articles with consistent formatting and styling, which will help keep our wiki neat and useable!
 
-## Common Templates
+# Common Templates
 Follow the below links for common templates that will give you a fast boiler plate to start writing articles without having to start from scratch:
 * Template 1
 * Template 2
