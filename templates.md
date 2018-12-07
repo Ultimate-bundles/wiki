@@ -16,3 +16,5 @@ This folder contains the following pages:
 
 **[The Notes Template](/templates/notes-template)** shows how you might record meeting notes, minutes, or some other archive of an event.
 
+**[The Syntax Examples](/templates/syntax-examples)** shows how to use common features of markdown for formatting your work.
+
