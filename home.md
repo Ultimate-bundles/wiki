@@ -8,19 +8,14 @@ The point of this platform is to record any information that really should live 
 
 # Basics of using the wiki
 1. You can create a new page by clicking the `+create` button in the top right corner. 
-
 2. To create a folder you need to add the `folder name`, foward slash, then `article name` as illustrated below.  You can't create empty folders so they need to be made at the time of saving articles.
 
  `management-documents/my-article-name`,
 
 where `management-documents` would be the wiki and `my-article-name` would be the nested page.
-
 2. Whenever you want to modify a page, click on the "Edit" button, make your changes and save the page. The modified page now replaces the previous version. 
-
 3. On the left navigation menu, you can select settings to change your password and profile details.  If you can't access this page, you may have limited permissions and will need to talk to one of the technical guys
-
 4. At the top of the page you'll find a search bar that will let you quickly look for an existing article.
-
 5. While in a wiki or nested page, the left navigation menu will have a number of anchor links that you can click to jump to corresponding points in the content.
 
 # How to use markdown (how to format text)
