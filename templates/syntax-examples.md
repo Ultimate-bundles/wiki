@@ -36,7 +36,7 @@ Here's a simple image link:
 `> This is a quote`
 > This is a quote
 # Lists
-This is an ordered list
+Here's how to make an ordered list:
 ```
 1. Item 1
 2. Item 2
@@ -46,7 +46,7 @@ This is an ordered list
 2. Item 2
 3. Item 3
 
-This is an un-ordered list
+Here's how to make an unordered list:
 ```
 * Item 1
 * Item 2
