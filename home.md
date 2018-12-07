@@ -19,10 +19,11 @@ where `management-documents` would be the wiki and `my-article-name` would be th
 5. While in a wiki or nested page, the left navigation menu will have a number of anchor links that you can click to jump to corresponding points in the content.
 
 ## How to use markdown (how to format text)
-This wiki uses a special kind of text formatting called markdown.  Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. 
+This wiki uses a special kind of text formatting called markdown.  Markdown is a lightweight markup language with plain text formatting syntax. 
 
-If you've never used markdown before, please skim over the markdown cheat sheet below: 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[Here's how to use the most common features of markdown](http://wiki.ultimatebundles.com/templates/syntax-examples)
+
+[You can review the full documentation here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Style guide
 Please read the style guide:
