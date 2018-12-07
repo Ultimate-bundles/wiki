@@ -7,15 +7,12 @@ A hub is a little like a page, and a little like a folder. It contains pages ins
 # What should be on this page?
 A hub is most useful when it behaves a bit like a table of contents, or an index of the pages it contains. This example hub follows all the regular "rules" detailed in the [Article Example](/templates/article-template), but also lists information about the templates in this folder, just like a hub should.
 
-# Contents
+# Folder Contents
 This folder contains the following pages:
 
-## Article Template
-[The Article Template](/templates/article-template) shows how an article might look and feel. Articles document things, describing what it is, how it works, and how to use it. 
+**[The Article Template](/templates/article-template)** shows how an article might look and feel. Articles document things, describing what it is, how it works, and how to use it. 
 
-## Process Template
-[The Process Template](/templates/process-template) shows how a process should be documented. Processes list specific actions to take in order to make something happen.
+**[The Process Template](/templates/process-template)** shows how a process should be documented. Processes list specific actions to take in order to make something happen.
 
-## Notes Template
-[The Notes Template](/templates/notes-template) shows how you might record meeting notes, minutes, or some other archive of an event.
+**[The Notes Template](/templates/notes-template)** shows how you might record meeting notes, minutes, or some other archive of an event.
 
