@@ -9,7 +9,7 @@ Sections and subsections can be linked to directly from other articles, so it's 
 This major section uses the H1 syntax.
 
 ## Subsection 1
-Details about this idea. *ideally*, every heading will have plain text to follow it immediately. This helps break up the article a bit, give space, and make it easier to read. Without that, it can look like a list of bullet points and be difficult to follow.
+Details about this idea. *Ideally*, every heading will have plain text to follow it immediately. This helps break up the article a bit, give space, and make it easier to read. Without that, it can look like a list of bullet points and be difficult to follow.
 
 This subsection uses the H2 syntax.
 
