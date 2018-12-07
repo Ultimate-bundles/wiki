@@ -10,9 +10,12 @@ A hub is most useful when it behaves a bit like a table of contents, or an index
 # Contents
 This folder contains the following pages:
 
-## [Article Template](/templates/article-template)
+## Article Template
+[The Article Template](/templates/article-template) shows how an article might look and feel. Articles document things, describing what it is, how it works, and how to use it. 
 
 ## Process Template
+[The Process Template](/templates/process-template) shows how a process should be documented. Processes list specific actions to take in order to make something happen.
 
 ## Notes Template
+[The Notes Template](/templates/notes-template) shows how you might record meeting notes, minutes, or some other archive of an event.
 
