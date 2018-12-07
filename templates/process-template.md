@@ -1,16 +1,16 @@
 <!-- TITLE: Process Template -->
 <!-- SUBTITLE: An example of how a process might be documented -->
 
-# Step 1
+# 1. Step Name Here
 Details about step 1
 
-## Substep 1.1
+## A. Substep Name Here
 Instructions
 
-## Substep 1.2
+## B Substep Name Here
 Instructions
 
-## Substep 1.3
+## C Substep Name Here
 Instructions
 
 # Step 2
