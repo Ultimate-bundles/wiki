@@ -6,30 +6,25 @@ A description of this section, what it's for and why it's important. Any overarc
 
 Sections and subsections can be linked to directly from other articles, so it's important to use them, but not too much.
 
+This major section uses the H1 syntax.
+
 ## Subsection 1
+Details about this idea. *ideally*, every heading will have plain text to follow it immediately. This helps break up the article a bit, give space, and make it easier to read. Without that, it can look like a list of bullet points and be difficult to follow.
+
+This subsection uses the H2 syntax.
+
+You can use additional subsections (up to H3) but it tends to make the article a little disorganized. Most ideas should be able to be displayed using just H1 and H2 headers, as shown in this example article.
+
+Instead of using an H3, consider using multiple paragraphs, bullet points, or italics to add interest and variety.
+
+## Subsection 2
 Details about this idea.
 
-Bullet points about this subsection
-* bullet 1
-* bullet 2
-* bullet 3
-
-
-```text
-A code block that provides an easy way to copy/paste this exact text.
-
-When creating a code block, you can even select what type of code is inside it (or just text), and it will apply apropriate syntax highlighting!
-```
-
-You an also apply `monospacing` to text inside regular text with the "\`" (backtick) character. If you want to use that character without causing text to be monospace, you can escape it with "\" (backslash)
-
-
-### Subsection 2
+## Subsection 3
 Details about this idea.
 
-> This is a quote
+# Major Section 2
+Another example major section
 
-And these are bullet and number points
-
-### Subsection 3
-Details about this idea.
+## Subsection
+Another example subsection
