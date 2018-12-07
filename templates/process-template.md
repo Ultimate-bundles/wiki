@@ -4,17 +4,17 @@
 # 1. Step Name Here
 Details about step 1
 
-## A. Substep Name Here
+## Substep Name Here
 Instructions
 
-## B Substep Name Here
+## Substep Name Here
 Instructions
 
-## C Substep Name Here
+## Substep Name Here
 Instructions
 
-# Step 2
+# 2. Step Name Here
 Instructions
 
-# Step 3
+# 3. Step Name Here
 Instructions
