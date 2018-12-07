@@ -1,4 +1,4 @@
-<!-- TITLE: Templates Hub -->
+<!-- TITLE: Templates -->
 <!-- SUBTITLE: An introduction and directory for all the templates in this folder -->
 
 # What's a hub?
@@ -9,4 +9,10 @@ A hub is most useful when it behaves a bit like a table of contents, or an index
 
 # Contents
 This folder contains the following pages:
+
+## [Article Template](/templates/article-template)
+
+## Process Template
+
+## Notes Template
 
