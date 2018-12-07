@@ -17,9 +17,7 @@ This subsection uses the H2 syntax.
 
 You can use additional subsections (up to H3) but it tends to make the article a little disorganized. Most ideas should be able to be displayed using just H1 and H2 headers, as shown in this example article.
 
-Instead of using an H3, consider using multiple paragraphs, bullet points, or italics to add interest and variety.
-
-Subsections should be used carefully and sparingly. Too many and the organization of the article becomes difficult to see. The more information you put under each major section and subsection, the better the article will look.
+Subsections should be used carefully. Too many and the organization of the article becomes difficult to see, and the Page Contents become less useful. The more information you put under each major section and subsection, the more useful the article tends to be (within reason). Instead of using an H3, consider using multiple paragraphs, bullet points, bold, or italics to add interest and variety.
 
 ## Subsection 2
 Details about this idea.
