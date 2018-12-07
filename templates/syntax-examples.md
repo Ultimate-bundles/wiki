@@ -1,4 +1,4 @@
-<!-- TITLE: Syntax Example -->
+<!-- TITLE: Syntax Examples -->
 <!-- SUBTITLE: A summary of commonly used syntax and shortcuts -->
 
 # Headers
