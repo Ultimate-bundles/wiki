@@ -1,10 +1,12 @@
 <!-- TITLE: Article Template -->
 <!-- SUBTITLE: A template for a simple article -->
 
-## Major Section 1
-A description of this section, what it's for and why it's important. Any overarching ideas about this topic, which serves as an introduction to any subsections included
+# Major Section 1
+A description of this section, what it's for and why it's important. Any overarching ideas about this topic, which serves as an introduction to any subsections included.
 
-### Subsection 1
+Sections and subsections can be linked to directly from other articles, so it's important to use them, but not too much.
+
+## Subsection 1
 Details about this idea.
 
 Bullet points about this subsection
