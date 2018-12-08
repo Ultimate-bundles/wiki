@@ -20,10 +20,10 @@ The point of this platform is to record any information that really should live 
 
 **Navigating a page** While in a wiki or nested page, the left navigation menu will have a number of anchor links that you can click to jump to corresponding points in the content.
 
-# How to use markdown (how to format text)
+# How to use markdown 
 This wiki uses a special kind of text formatting called markdown.  Markdown is a lightweight markup language with plain text formatting syntax. 
 
-[Here's how to use the most common features of markdown](http://wiki.ultimatebundles.com/templates/syntax-examples)
+[Here's how to use the most common features of markdown](http://http://wiki.ultimatebundles.com/allwiki.ultimatebundles.com/templates/syntax-examples)
 
 [You can review the full documentation here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -32,12 +32,8 @@ Please read the style guide:
 
 This guide will run over the basics of formatting and how to write articles with consistent formatting and styling, which will help keep our wiki neat and useable!
 
-# Common Templates
-Follow the below links for common templates that will give you a fast boiler plate to start writing articles without having to start from scratch:
-* Template 1
-* Template 2
-* Template 3
-* Template 4
+# Common templates
+Templates can be found over on the templates [page](http://wiki.ultimatebundles.com/all)
 
 
 
