@@ -33,7 +33,9 @@ Please read the style guide:
 This guide will run over the basics of formatting and how to write articles with consistent formatting and styling, which will help keep our wiki neat and useable!
 
 # Common templates
-Templates can be found over on the templates [page](http://wiki.ultimatebundles.com/all)
+Template are helpful for getting started quickly without having to rewrite all the boilplate framework of an article.
+
+Check out these common templates [over here](http://wiki.ultimatebundles.com/templates)
 
 
 
