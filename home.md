@@ -35,7 +35,7 @@ This guide will run over the basics of formatting and how to write articles with
 # Common templates
 Template are helpful for getting started quickly without having to rewrite all the boilplate framework of an article.
 
-Check out these common templates**[over here](/templates)
+Check out some common templates [over here](/templates)
 
 
 
