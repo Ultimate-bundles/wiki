@@ -19,6 +19,8 @@ These should be wrapped in backticks, like this:
 
 `` `code snippet` ``
 
+Which renders like this:
+
 `code snippet`
 
 The backtick is the small apostrophe-like character on the key just left of the `1` key. It shares a key with the tilde `~`.
