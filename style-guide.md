@@ -12,7 +12,7 @@ Only capitalize the first letter of any heading.  The first heading should alway
 Start articles with a **brief introduction**.  This can be under the `<!-- TITLE: -->` or under a H1.
 
 # Text emphasis
-Emphasis in text can be used with *italics*, **bolding** or __underscores__ .  Try to avoid overusing emphasis because it diminishes effectiveness.  Instead, consider rewriting.
+Emphasis in text can be used with *italics* or **bolding**.  Try to avoid overusing emphasis because it diminishes effectiveness.  Instead, consider rewriting.
 
 # Quotations or code snippets
 These should be wrapped in backticks, like this:
@@ -22,9 +22,9 @@ These should be wrapped in backticks, like this:
 `code snipet`
 
 # Linking to other articles
-Be sure to check the (GitHub markdown cheat sheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis] to see how to properly link to other articles in the wiki.  Any reference to other content included in the wiki should have a link so the user can navigate there quickly.  
+Be sure to check the [Syntax Examples](/templates/syntax-examples) to see how to properly link to other articles in the wiki.  Any reference to other content included in the wiki should have a link so the user can navigate there quickly.  
 
-For reference, linking content follows this format: `(description of thing you want to link to)[/foldername/pagename]`.  If there is no folder name, the linking structure would look like this: `(description of thing you want to link to)[/pagename]`.
+For reference, linking content follows this format: `[description of thing you want to link to](/foldername/pagename)`.  If there is no folder name, the linking structure would look like this: `[description of thing you want to link to](/pagename)`.
 
 
 
