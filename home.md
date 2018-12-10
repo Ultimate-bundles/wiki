@@ -23,7 +23,7 @@ The point of this platform is to record any information that really should live 
 # How to use markdown 
 This wiki uses a special kind of text formatting called markdown.  Markdown is a lightweight markup language with plain text formatting syntax. 
 
-[Here's how to use the most common features of markdown](http://http://wiki.ultimatebundles.com/allwiki.ultimatebundles.com/templates/syntax-examples)
+[Here's how to use the most common features of markdown](/templates/syntax-examples)
 
 [You can review the full documentation here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
