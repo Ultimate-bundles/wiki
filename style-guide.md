@@ -17,9 +17,12 @@ Emphasis in text can be used with *italics*, **bolding** or __underscores__ .  T
 # Quotations or code snippets
 These should be wrapped in backticks, like this:
 
-``code snipet
+\`code snipet
 line 1
-line 2``
+line 2\`
+`code snipet
+line 1
+line 2`
 
 # Linking to other articles
 Be sure to check the (GitHub markdown cheat sheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis] to see how to properly link to other articles in the wiki.  Any reference to other content included in the wiki should have a link so the user can navigate there quickly.  
