@@ -21,6 +21,8 @@ These should be wrapped in backticks, like this:
 
 `code snipet`
 
+The backtick is the small apostrophe-like character on the key just left of the *1* number key. It shares a key with the tilde `~`.
+
 # Linking to other articles
 Be sure to check the [Syntax Examples](/templates/syntax-examples) to see how to properly link to other articles in the wiki.  Any reference to other content included in the wiki should have a link so the user can navigate there quickly.  
 
