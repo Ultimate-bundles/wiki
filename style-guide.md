@@ -17,7 +17,7 @@ Emphasis in text can be used with *italics* or **bolding**.  Try to avoid overus
 # Quotations or code snippets
 These should be wrapped in backticks, like this:
 
-```code snippet```
+`` `code snippet` ``
 
 `code snippet`
 
