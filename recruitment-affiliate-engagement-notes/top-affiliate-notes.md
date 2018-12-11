@@ -2,32 +2,32 @@
 <!-- SUBTITLE: A quick summary of Top Affiliate Notes -->
 
 # Header
-* Abby		justagirlandherblog@gmail.com
+* Abby Lawson		justagirlandherblog@gmail.com
+PROD, would like to contribute
+UHomB, would like to contribute
+TGBTK, would like to contribute
 
-
-* Alison		alison@getyourprettyon.com
+* Alison Lumbatis		alison@getyourprettyon.com
+UHomB, would like to contribute the 10 Ways to Get Out of the Makeup Rut or Rediscover Me 28 Day Challenge 
 
 
 * Allison		HELLO@allisonlindstrom.com
-* 
+TGBTK, wants to include her Blogging to Win ecourse again (last included in 2017)
 
 
-* Amber		ameyers@theherbalacademy.com
+* Amber Meyers		ameyers@theherbalacademy.com
 
 
-* Amy		amylynnandrews@gmail.com
+* Amy Lynn Andrews		amylynnandrews@gmail.com
 
 
-* Angela		angie@asnvirtualservices.com
-
-
-* Ann		atimm1221@gmail.com
+* Angie Nelson		angie@asnvirtualservices.com
 
 
 * Anna		khristal23@gmail.com
 
 
-* Anne		modernmrsdarcy@gmail.com
+* Anne Bogel		modernmrsdarcy@gmail.com
 
 
 * Arabah		arabahjoy@gmail.com
@@ -70,6 +70,8 @@
 
 
 * Chris		joybileefarm@gmail.com
+HEOSB, creating new course specifically for this bundle
+UHLB, creating new course specifically for this bundle
 
 
 * Cole		cole@colesclassroom.com
@@ -82,6 +84,7 @@
 
 
 * Dana		aslobcomesclean@gmail.com
+UHomB, would like to include the 5 Day Clutter Shakedown
 
 
 * Amy Blevins		amyb@homeschoolencouragement.com
@@ -133,10 +136,8 @@
 * Jennifer		workingathomeschool@gmail.com
 
 
-* Jeremy		michaelm@treelinebamboo.com
-
-
-* Jessica		jessica@lifeasmom.com
+* Jessica Fisher		jessica@lifeasmom.com
+UHomB, would like to contribute a 1-hr meal planning and prep workshop
 
 
 * Jessica		jessica.fearon@gmail.com
@@ -145,7 +146,9 @@
 * Joshua		josh@expertphotography.com
 
 
-* Kalyn		kalynbrooke@gmail.com
+* Kalyn Brooke		kalynbrooke@gmail.com
+PROD, would like to be a super affiliate
+UHomB, would like to contribute again
 
 
 * Katelyn		Katelyn@katelynjames.com
@@ -160,7 +163,8 @@
 * Kayse		kayse.pratt@gmail.com
 
 
-* Kelly		kelly@newleafwellness.biz
+* Kelly McNelis 	kelly@newleafwellness.biz
+TGBTK, would like to contribute an ecourse about marketing ebooks
 
 
 * Kelly		kelly@stickyblogging.com
@@ -177,7 +181,7 @@
 
 * Laura		laura@heavenlyhomemakers.com
 
-
+ 
 * Laura		iheartplanners@gmail.com
 
 
@@ -193,91 +197,98 @@
 * Leslie		leslie@lambertslately.com
 
 
-* Maria		craigmaria@gmail.com
+* Maria Emmerich		craigmaria@gmail.com
 
 
-* Mark		Mark@ziglarfamily.com
+* Mark Ziglar		Mark@ziglarfamily.com
 
 
-* Melissa		melissaringstaff@avirtuouswoman.org
+* Melissa Ringstaff		melissaringstaff@avirtuouswoman.org
 
 
-* Melissa		melissaknorris@juno.com
+* Melissa Norris		melissaknorris@juno.com
 
 
-* Mique		info@thirtyhandmadedays.com
+* Mique Provost		info@thirtyhandmadedays.com
 
 
 * Missy		missy@howdoesshe.com
 
 
-* Monica		monica.n.froese@gmail.com
+* Monica Froese		monica.n.froese@gmail.com
 
 
-* Myquillyn		nestergirl@gmail.com
+* Myquillyn Smith		nestergirl@gmail.com
 
 
 * Nicholas		nick@sidehustlenation.com
 
 
-* Rachel		amotherfarfromhome@gmail.com
+* Rachel Norman		amotherfarfromhome@gmail.com
+UHomB, would like to contribute again
 
 
-* Renee		renee@hardlotion.com
+* Renee Harris		renee@hardlotion.com
 
 
-* Richard		picturecorrect@gmail.com
+* Richard Schneider		picturecorrect@gmail.com
 
 
 * Robert		support@oil-testimonials.com
 
 
-* Rosalee		rosalee@herbalremediesadvice.org
+* Rosalee de la Foret		rosalee@herbalremediesadvice.org
+HEOSB, would like to contribute
 
 
-* Rosemarie		busybudgeter@gmail.com
+* Rosemarie Groner		busybudgeter@gmail.com
 
 
-* Ruth		ruth@livingwellspendingless.com
+* Ruth Soukup		ruth@livingwellspendingless.com
 
 
-* Saren		saren@poweroffamilies.com
+* Saren Loosli		saren@poweroffamilies.com
 
 
-* Sheila		gregoire.sheilawray@gmail.com
+* Sheila Wray Gregoire		gregoire.sheilawray@gmail.com
 
 
-* Stephanie		modernparentsmessykids@GMAIL.COM
+* Stephanie Morgan		modernparentsmessykids@GMAIL.COM
 
 
-* Suzi		startamomblog@gmail.com
+* Suzi Whitford		startamomblog@gmail.com
+TGBTK, would like to contribute
 
 
 * Tara		affiliateteam@thedatingdivas.com
 
 
-* Tasha		tasha@designertrapped.com
+* Tasha Agruso		tasha@designertrapped.com
 
 
-* Taylor		taylor.flanery@gmail.com
+* Taylor Flanery		taylor.flanery@gmail.com
 
 
 * Libby Jenkison		ditchthecarbs@gmail.com
 
 
-* Tiffany		tiffany@dontwastethecrumbs.com
+* Tiffany Crumbs		tiffany@dontwastethecrumbs.com
 
 
-* Trisha		intoxicatedonlifemail@gmail.com
+* Trisha Gilkerson		intoxicatedonlifemail@gmail.com
 
 
-* Tsh		tshoxenreider@gmail.com
+* Tsh Oxenreider		tshoxenreider@gmail.com
+PROD, super affiliate
+UHomB, would like to contribute
+UHLB, super affiliate
+TGBTK, would like to contribute if she can finish her product in time
 
 
-* Victoria		creativehomekeeper@gmail.com
+* Victoria Osborn		creativehomekeeper@gmail.com
 
 
-* Wardee		wardeh@traditionalcookingschool.com
+* Wardee Harmon		wardeh@traditionalcookingschool.com
 
 
-* Will		drfalconer@VitalAnimal.com
+* Will Falconer		drfalconer@VitalAnimal.com
