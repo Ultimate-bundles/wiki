@@ -15,3 +15,4 @@
 
 # Things to be updated
 Overall strategy docs & videos in affiliate portal (Marketing Training > Overall Strategy)
+Email marketing, blogging strategy, & social media strategy videos in Marketing Training
