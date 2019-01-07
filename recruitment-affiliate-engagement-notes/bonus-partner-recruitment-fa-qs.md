@@ -36,3 +36,9 @@ Bronze bonuses are called 'bonus-bonuses' internally. These are bonus offers tha
 The line between bundle product and bonus offer can be a bit tricky to define. Traditionally a digital product from a blogger is considered a bundle product, but if it's from a "brand", it's a bonus offer. We've moved membership programs into the bundle itself, but I have mixed feelings about that.
 
 Bonus partners are not obligated to promote but will receive the contributor-level commission (70%) if they want to. 
+
+# Bonus Partner Calls
+1. Explain bundle concept for prospective partners who haven't heard of us before.
+2. Describe current bundle.
+3. Explain limitations & rules around bonus offers.
+3. Answer questions and talk through possible bonuses.
