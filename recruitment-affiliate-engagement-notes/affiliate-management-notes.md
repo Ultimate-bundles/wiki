@@ -14,6 +14,7 @@
 **Affiliate contact issues (not getting emails, etc):** https://www.dropbox.com/s/0ymoxnr1xgdf30t/Affiliate%20Contact%20Issues.mov?dl=0
 **Changing affiliate email addresses:** https://www.dropbox.com/s/mka9597bloia6oe/Changing%20Affiliate%20Email%20Addresses.mov?dl=0
 **Top affiliate stats:** https://www.dropbox.com/s/t66tl95fa9zc05f/Top%20Affiliate%20Stats.mov?dl=0
+**Post-sale affiliate portal updates:** https://www.dropbox.com/s/wid2evdebcml1gz/Post-Sale%20Affiliate%20Portal%20Updates.mov?dl=0
 
 # Things to be updated
 Overall strategy docs & videos in affiliate portal (Marketing Training > Overall Strategy)
