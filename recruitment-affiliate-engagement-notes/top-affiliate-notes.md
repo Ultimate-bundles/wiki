@@ -1,5 +1,5 @@
 <!-- TITLE: Top Affiliate Notes -->
-<!-- SUBTITLE: A quick summary of Top Affiliate Notes -->
+<!-- SUBTITLE: wo quick summary of Top Affiliate Notes -->
 
 # Header
 **Abby Lawson		justagirlandherblog@gmail.com**
@@ -25,6 +25,10 @@ Amber runs the marketing for The Herbal Academy. She's hard to influence :), but
 
 **Amy Lynn Andrews		amylynnandrews@gmail.com**
 Amy is careful about the things she says yes to. She only promotes if she a) fully believes in the product and b) has time to really dig into it herself so that she can make recommendations. Work to get her access to the products as early as possible.
+
+
+**Amy Blevins		amyb@homeschoolencouragement.com**
+Amy is a long-time contributor and almost always wants to participate in the UHomB at a minimum. We've had a lot of email issues with her account, so it's worth reaching out to her directly about being a contributor or super affiliate for bundles in that space.
 
 
 **Angie Nelson		angie@asnvirtualservices.com**
@@ -85,68 +89,79 @@ TGBTK, super affiliate at a minimum, may have a product to include
 
 
 **Caroline Allen 		Caroline@deborahandco.com**
-
+Caroline is one of our longest running contributors and has also partnered with us as a bonus partner in the past. She is a Lilla Rose consultant at a fairly high level, and I think focuses more on that business now. Her husband, Sean, is a graphic designer and they sometimes submit printable products that he's created.
 
 
 **Caroline Makepeace		cazcraig@ytravelblog.com**
+Caroline, or Caz, and her husband Craig are Australian travel bloggers currently living in the U.S. on a permanent resident visa. They just set off for an RV tour around the states with their two girls. They're not always super communicative but do well on business-related bundles. Some of their "mindset" products veer a bit into the woo-wooey, so it's important to carefully review them.
 
 
 **Chris Dalziel		joybileefarm@gmail.com**
+Chris is one of our most loyal contributors in the health space, and she typically creates and launches products with both the UHLB & HEO. Her communication style is very direct and it can feel like she's upset when she's really just sharing info or asking a question.
 HEOSB, creating new course specifically for this bundle
 UHLB, creating new course specifically for this bundle
 
 
 **Cole Joseph		cole@colesclassroom.com**
+Cole has participated in all of the UPB sales. The last sale did not perform well for him at all, and he was pretty upset about needing to extend his coupon code for the flash sale. He has said that he's not participating in ANY bundles moving forward.
 
 
 **Courtney Slazinick		clickitupanotch@gmail.com**
+Courney is a loyal affiliate and contributor who has been part of each of the UPBs (and maybe a UHomB as well). In 2018, she partnered with us pretty heavily to create the marketing direction for the bundle and recorded both the prelauch and sales video as well. 5DayDeals is anxious to recruit her to their bundles, and with us pulling back from that space in 2019, she may begin to work with them. 
+mini-UPB, would like to participate
 
 
-* Crystal		moneysavingmom@gmail.com
+**Crystal		moneysavingmom@gmail.com**
+Crystal seemed to buy in to the bundles more in 2019 but passed on both the HMPB & UPB for 2019. It's always worth sending an email to her and her Director of Marketing, Brian (brian@moneysavingmom.com) about future bundles that relate to families, personal development, personal finance, working at home, or blogging.
 
 
-* Dana		aslobcomesclean@gmail.com
+**Dana White		aslobcomesclean@gmail.com**
+Dana enthusiastically submitted her product 3 different times for this year's UHomB. Sometimes I worry just a little bit about the quality of her products. She's a valuable contributor, but her products are not the best we see.
 UHomB, would like to include the 5 Day Clutter Shakedown
 
 
-* Amy Blevins		amyb@homeschoolencouragement.com
+**Darren Rowse		darrenrowse@gmail.com**
+Darren became our top-selling affiliate *ever* with the 2017 UPB, where he earned more than $118K in commission. His list didn't perform as well in 2018, and frankly I think it was oversaturation because he also promoted 5DD's 2017 bundle in October. However, he's still an enthusiastic participant to both the UPB & TGBTK. His blogging products, surprisingly, can feel a bit out of date when compared to some of the other products in the bundle, but the authority he brings to the table + his sales make him a valuable contributor. His Director of Marketing is Laney Galligan, and she's the one you'll talk to most often (laney@digital-photography-school.com or laney@problogger.com).
 
 
-* Darren		darrenrowse@gmail.com
+**David Molnar		david@davidmolnar.com**
+We partnered with David for the recruitment, vision & sales video for the 2017 UPB. He did a great job but the bundle didn't perform as well as expected, and it wasn't a relationship either of us wanted to continue in that way. He did, however, still participate in the 2018 UPB, and it's worth reaching out to him for future bundles as well.
 
 
-* David		david@davidmolnar.com
+**Dr. Eric Zielinski		Affiliate@drericz.com**
+Eric, or Dr. Z, is a savvy business person but can be hard to work with for bundles because he's reluctant to include his best products but only wants to include products with 3rd party registration on his site, so he often tries to slip partial products or lead magnets in. He will often agree to participate and then market to only tiny segment of his list. 
+HEOSB & UHLB
 
 
-* Dr. Eric		Affiliate@drericz.com
+**Emily Baker		emily@hopeink.com**
+Emily is the owner of HopeInk, our most active bonus partner, but she also does well marketing the bundles to her list. She can be very direct in asking for what she wants (often extra emails sent out to remind customers to redeem their bonuses), but is actually really great to work with.
+UHomB, possible PROD BP?
 
 
-* Emily		emily@hopeink.com
+**Erin Odom		thehumbledhomemaker@gmail.com**
 
-
-* Erin		thehumbledhomemaker@gmail.com
 
  		
-* Gena		publisher@theoldschoolhouse.com
+**Gena Suarez		publisher@theoldschoolhouse.com**
 
 
-* Genevieve		mama@mamanatural.com
-* Genevieve		michael@mamanatural.com
+**Genevieve Howland		mama@mamanatural.com, michael@mamanatural.com**
 
 
-* Haley		Haley.s.stewart@gmail.com
+**Haley Stewart		Haley.s.stewart@gmail.com**
 
 
-* Heather		heather@mommypotamus.com
+**Heather Dessinger		heather@mommypotamus.com**
 
 
-* Helene		helene@heleneinbetween.com
+**Helene Sula		helene@heleneinbetween.com**
 
 
-* Jami		jami@youngwifesguide.com
+**Jami Balmet		jami@youngwifesguide.com**
+I left this on here because it made me laugh when I came across it. :) What I would say: "Jami is a business savvy blogger running a thriving business on the side. She doesn't participate in every bundle, but when she does participate, she jumps in with both feet!"
 
 
-* Jamie		jamie@simplehomeschool.net
+**Jamie Martin		jamie@simplehomeschool.net**
 
 
 * Jennifer		jennifer@healthymoving.com
