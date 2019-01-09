@@ -1,5 +1,5 @@
 <!-- TITLE: Affiliate Management Notes -->
-<!-- SUBTITLE: A quick summary of Affiliate Management Notes -->
+<!-- SUBTITLE: Brain dump from Mandi -->
 
 # Random factoids
 **Things to consider when deciding on prizes** - Who do we want to motivate? What activities do we want to motivate? Do we want to do top seller prizes? Top converters? Top clicks/traffic? Random draws for all affiliates? Daily prizes or overall prizes? How much do you want to use for engagement in the affiliate group? What prizes are most motivating to this group of affiliates?
@@ -15,6 +15,8 @@
 **Changing affiliate email addresses:** https://www.dropbox.com/s/mka9597bloia6oe/Changing%20Affiliate%20Email%20Addresses.mov?dl=0
 **Top affiliate stats:** https://www.dropbox.com/s/t66tl95fa9zc05f/Top%20Affiliate%20Stats.mov?dl=0
 **Post-sale affiliate portal updates:** https://www.dropbox.com/s/wid2evdebcml1gz/Post-Sale%20Affiliate%20Portal%20Updates.mov?dl=0
+**Affiliate payment review for Dan:** https://zoom.us/recording/play/GsYHQ7_u6KMSIlw6c2zeKnecpH00tcczeegqDRX048R53woRA9qpQ3q-EDd4KLlM?continueMode=true
+**Making affiliates super affiliates:** https://zoom.us/recording/play/bsHbAy05eSYke3t-BPemszbavrsMYtEsMINibKnc6z60fDKhyo7AA1bplwNnJGZ9?continueMode=true
 
 # Things to be updated
 Overall strategy docs & videos in affiliate portal (Marketing Training > Overall Strategy)
