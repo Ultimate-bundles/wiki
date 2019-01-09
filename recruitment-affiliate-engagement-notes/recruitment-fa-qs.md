@@ -2,7 +2,8 @@
 <!-- SUBTITLE: A brain dump from Mandi -->
 
 # Important Docs
-**Top Affiliate Notes (these are the bundles they told me they're interested in for 2019):** https://docs.google.com/spreadsheets/d/1qKutpCimQV2pbDhGCJZa7IoBValCDA93Gm5qZzlYeaY/edit#gid=0
+**Top Affiliate Notes (these are the bundles they told me they're interested in for 2019):** 
+https://docs.google.com/spreadsheets/d/1qKutpCimQV2pbDhGCJZa7IoBValCDA93Gm5qZzlYeaY/edit#gid=0
 
 **Top Affiliate Notes (history, idiosyncracies, things you should know):** 
 http://wiki.ultimatebundles.com/recruitment-affiliate-engagement-notes/top-affiliate-notes
