@@ -3,7 +3,9 @@
 
 # Important Docs
 **Top Affiliate Notes (these are the bundles they told me they're interested in for 2019):** https://docs.google.com/spreadsheets/d/1qKutpCimQV2pbDhGCJZa7IoBValCDA93Gm5qZzlYeaY/edit#gid=0
-**Top Affiliate Notes (history, idiosyncracies, things you should know):** http://wiki.ultimatebundles.com/recruitment-affiliate-engagement-notes/top-affiliate-notes
+
+**Top Affiliate Notes (history, idiosyncracies, things you should know):** 
+http://wiki.ultimatebundles.com/recruitment-affiliate-engagement-notes/top-affiliate-notes
 
 # Recruitment Policies
 Products should not be available for free as a lead magnet, but they don't have to be for sale either. (Launching a brand new or exclusive product in the bundle is a great way to promote the bundle to the contributor's audience.)
