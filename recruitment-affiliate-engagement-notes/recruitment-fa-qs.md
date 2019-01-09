@@ -9,6 +9,8 @@ https://docs.google.com/spreadsheets/d/1qKutpCimQV2pbDhGCJZa7IoBValCDA93Gm5qZzlY
 http://wiki.ultimatebundles.com/recruitment-affiliate-engagement-notes/top-affiliate-notes
 
 # Recruitment Policies
+ALWAYS follow your gut. If you don't think something should be included, it probably shouldn't be, even if we want that contributor to participate or we need to fill a gap. :) 
+
 Products should not be available for free as a lead magnet, but they don't have to be for sale either. (Launching a brand new or exclusive product in the bundle is a great way to promote the bundle to the contributor's audience.)
 
 Contributors like to submit eCourses to try to get those registrations, but it's important that we don't go overboard with the ecourse registrations. If an ecourse is really just text (like chapters from a book broken down into individual lessons), then we lean toward not including it unless it's a really valuable contributor.
