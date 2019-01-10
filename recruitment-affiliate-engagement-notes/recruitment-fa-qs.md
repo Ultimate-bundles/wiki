@@ -26,3 +26,5 @@ I have not perfected this process, but ideally your process will look something 
 - Confirm maybes to fill in the gaps
 - Research more if needed to fill gaps
 - Let the nos down gently :) 
+
+To answer the micro-bundle question: "Occasionally we'll pull together a small bundle of highly-targeted resources and promote them by email only. The contributors to that micro-bundle are also able to promote it to their list, but there's no big launch promotion—it's just a short 3-day sale via email. For example, we've done an Instant Pot bundle and a Pinterest Mini Bundle. When we start working on those, we reach out to the people that have indicated yes with the details and plans for that bundle, and then you have the opportunity to explicity opt in or out."
