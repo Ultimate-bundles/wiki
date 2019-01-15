@@ -35,7 +35,7 @@ Click the here to learn more.
 
 **Copy 3 (video copy)**
 
-```Wouldn't it be nice to feel more on top of things in the kitchen?  
+`Wouldn't it be nice to feel more on top of things in the kitchen?  
 -
 To always know what to cook, with ingredients you already have and make food that not only tastes good but helps your reach your goals?  
 -
@@ -64,4 +64,4 @@ Better health starts with what we eat and the Health Meal Planning Bundle is the
 You can get the entire bundle for just $49.97 and if you want you can add 200 healthy dessert and beverages recipes for just $10 more.
 -
 Say yes to faster, healthier meals with less stress - grab your bundle today!
-```
+`
