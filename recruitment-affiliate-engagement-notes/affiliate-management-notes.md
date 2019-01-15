@@ -12,6 +12,8 @@
 
 **Standard Templates** - Templates for most of the documents we use from bundle to bundle are found here: https://drive.google.com/drive/folders/0B5bEOUnPLa03YTVDSUpPTGhPUVE?usp=sharing. To use, right click and select **Make a copy**. Then move the file to the appropriate folder and replace the XXX with the bundle shortcode. It's important to check these every couple of months to make sure they're up to date as changes get made to the live versions over time.
 
+**Create Zoom webinar** - Log into the customerservice@ultimatebundles.com Zoom account > My Webinars > Previous Webinars tab. Click on the most recent Affiliate Marketing Webinar and click *Schedule a webinar with these same settings*. Adjust Topic, Date, Alternative Host (use your email address). Click Schedule/Save. Copy registration URL from the new section that appears at the bottom. Make sure Email Settings include a reminder 1 day and 1 hour before the webinar. Change the branding to include the bundle's logo. Check registration page to make sure everything is correct.
+
 # Tutorials
 **Affiliate contact issues (not getting emails, etc):** https://www.dropbox.com/s/0ymoxnr1xgdf30t/Affiliate%20Contact%20Issues.mov?dl=0
 **Changing affiliate email addresses:** https://www.dropbox.com/s/mka9597bloia6oe/Changing%20Affiliate%20Email%20Addresses.mov?dl=0
