@@ -37,19 +37,19 @@ Click the here to learn more.
 
 
 Wouldn't it be nice to feel more on top of things in the kitchen?  
----
+-
 To always know what to cook, with ingredients you already have and make food that not only tastes good but helps your reach your goals?  
----
+-
 Whether those goals include losing weight, serving your family more wholesome, nutrient-dense food, or you want to simple take the stress out of mealtimes, the Healthy Meal Planning Bundle 2019 has your back.
 
----
+-
 It's for you if you struggle to plan healthy meals, or find your yourself short on time with an empty fridge or frequently resort to convenience foods, restaurants and last-minute grocery runs.  
 
 And it's definitely for you if you're ready to;
 🍏 be in control of what you and your family are eating
 🍏 feel healthier, more energetic and support your weight loss goals
 🍏 de-stress dinnertime and save money by eating at home more!
----
+-
 The Healthy Meal Planning Bundle includes;
 🥙 over 1,200 real food recipes from your favorite bloggers, beautifully formatted into 12 unique cookbooks
 🥙 an easy-to-use index so you can sort by allergies, eating preferences, or healthy goals
@@ -59,10 +59,10 @@ The Healthy Meal Planning Bundle includes;
 🥙 healthy eating courses, and more!
 
 Plus it's fully integrated with RealPlans, a premium app that makes planning and shopping even easier, and you'll get a free trial with your bundle.
----
+-
 Better health starts with what we eat and the Health Meal Planning Bundle is the perfect resource to help you take control of your eating in 2019.
----
+-
 You can get the entire bundle for just $49.97 and if you want you can add 200 healthy dessert and beverages recipes for just $10 more.
----
+-
 Say yes to faster, healthier meals with less stress - grab your bundle today!
 
