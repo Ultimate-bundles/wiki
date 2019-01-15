@@ -4,7 +4,7 @@
 
 **Copy 1 (original)**
 
-The Ultimate Healthy Meal Planning Bundle is OPEN! 
+```The Ultimate Healthy Meal Planning Bundle is OPEN! 
 
 Are you tired of resorting to convenience foods because you're short on time, always scrambling to make something decent for your family out of what's in your fridge or feeling like cooking is a burden instead of a joy? 
 
@@ -20,22 +20,22 @@ Plus, inside the Healthy Meal Planning Bundle, you’ll find nearly $400 worth o
 
 Best of all? You can get it all for only $49.97 that’s a huge discount on all the great resources and recipes you’ll find inside. 
 
-Get your bundle today!
+Get your bundle today!```
 
 **Copy 2 (short)**
 
 
-Missed your chance to grab a copy of the Healthy Meal Planning Bundle and regretting it?  
+```Missed your chance to grab a copy of the Healthy Meal Planning Bundle and regretting it?  
 
 Guess what? ... It's back by popular demand!
 
 Don't miss out again.  Grab your copy today.  
 
-Click the here to learn more.
+Click the here to learn more.```
 
 **Copy 3 (video copy)**
 
-`Wouldn't it be nice to feel more on top of things in the kitchen?  
+```Wouldn't it be nice to feel more on top of things in the kitchen?  
 -
 To always know what to cook, with ingredients you already have and make food that not only tastes good but helps your reach your goals?  
 -
@@ -64,4 +64,4 @@ Better health starts with what we eat and the Health Meal Planning Bundle is the
 You can get the entire bundle for just $49.97 and if you want you can add 200 healthy dessert and beverages recipes for just $10 more.
 -
 Say yes to faster, healthier meals with less stress - grab your bundle today!
-`
+```
