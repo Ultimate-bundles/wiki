@@ -19,6 +19,7 @@
 **Post-sale affiliate portal updates:** https://www.dropbox.com/s/wid2evdebcml1gz/Post-Sale%20Affiliate%20Portal%20Updates.mov?dl=0
 **Affiliate payment review for Dan:** https://zoom.us/recording/play/GsYHQ7_u6KMSIlw6c2zeKnecpH00tcczeegqDRX048R53woRA9qpQ3q-EDd4KLlM?continueMode=true
 **Making affiliates super affiliates:** https://zoom.us/recording/play/bsHbAy05eSYke3t-BPemszbavrsMYtEsMINibKnc6z60fDKhyo7AA1bplwNnJGZ9?continueMode=true
+**Creating Current Bundles page in portal:** https://www.dropbox.com/s/wvy6yg2dtgutg1f/Creating%20the%20Current%20Bundles%20Page.mov?dl=0
 
 # Things to be updated
 Overall strategy docs & videos in affiliate portal (Marketing Training > Overall Strategy)
