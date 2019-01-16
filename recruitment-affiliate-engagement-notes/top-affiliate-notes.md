@@ -139,22 +139,27 @@ UHomB, possible PROD BP?
 
 
 **Erin Odom		thehumbledhomemaker@gmail.com**
-
+Erin & her husband Will co-founded UB with Ryan & Stephanie and sold their share of the company back to the Langfords in...2015? I think after the UHomB that year. Erin is pretty much guaranteed super affiliate status in any bundle, and we prioritize her NEW product submissions as well. The last few years have been hard for them as far as balancing homeschooling, the baby & the blog, so she often flakes out during a bundle promotion, unfortunately.
 
  		
 **Gena Suarez		publisher@theoldschoolhouse.com**
+I actually think Gena & her husband sold The Old Schoolhouse to someone else. It may be worth reaching out to see who's in  charge now and if they're still interested in participating in bundles!
 
 
 **Genevieve Howland		mama@mamanatural.com, michael@mamanatural.com**
+Michael/Mike is Genevieve's husband, and he is our main contact for most bundles, although Genevieve is the public face of their business. (Interesting note: a year or two ago, they legally changed their last name from Pazdan to Howland.) They have been rising in the leaderboards each bundle, and they typically come through with a big promotion even when they seem quiet or not as responsive on email.
 
 
 **Haley Stewart		Haley.s.stewart@gmail.com**
+Haley has contributed to and promoted both the Healthy Living Bundle & Homemaking Bundle. I think her audience is a bit more loyal to the UHomB, and last year she mentioned that Daniel (her husband) was working on an ebook about road trips with kids that would be a great addition! She always has really creative promotional ideas, so she's a good one to watch during a bundle as well!
 
 
 **Heather Dessinger		heather@mommypotamus.com**
+Mommypotamus was recently bought by Wellness Mama. I don't fully understand whether they're now running things together or who our main contact should be, but both of them have pulled back a bit from bundles recently. Stephanie would have more details about their business model and how we should approach them for future opportunities.
 
 
 **Helene Sula		helene@heleneinbetween.com**
+Helene is a great affiliate in that she's enthusiastic about selling the bundle and sells enough to make it onto the top affiliates list, but her work can be so-so, so it's important to carefully proof anything she submits, and I don't think you should be afraid to decline to include something if the quality is not there.
 
 
 **Jami Balmet		jami@youngwifesguide.com**
@@ -164,16 +169,20 @@ I left this on here because it made me laugh when I came across it. :) What I wo
 **Jamie Martin		jamie@simplehomeschool.net**
 
 
-* Jennifer		jennifer@healthymoving.com
+**Jennifer Hoffman		jennifer@healthymoving.com**
+Like Beth, Jennifer is one of our longest running contributors. I think she's participated in every Homemaking & Healthy Living bundle since the beginning, first as a bonus partner and then as a contributor. We've had some trouble with communication in the past year or so, where her replies aren't coming through and it feels like she's just ignoring us. Pinging her on FB is a good way to get in touch if you don't hear back.
 
 
-* Jennifer		theintentionalmomblog@gmail.com
+**Jennifer Roskamp		theintentionalmomblog@gmail.com**
+Jennifer is a member of Ruth's "inner circle" mastermind and mom to...7? 8? She has a unique email strategy that includes daily plain-text emails with realistic stories about her family life and a P.S. link or promotion at the end of each one, and she sells a fair number of bundles that way. The last Healthy Living Bundle didn't perform we
 
 
-* Jennifer		workingathomeschool@gmail.com
+**Jennifer Mason		workingathomeschool@gmail.com**
+Jennifer recently rebranded from Working at Homeschool to The Well-Planned Kitchen with more of a focus on meal planning and especially keto & THM. She's got an amazing following but is very particular about what she promotes (which is what makes her promotions so effective, I'm sure).
 
 
-* Jessica Fisher		jessica@lifeasmom.com
+**Jessica Fisher		jessica@lifeasmom.com**
+Jessica used to be *extremely* enthusiastic about bundles, with a goal of making it on the top 10 leaderboard. I think her competitive nature (and maybe insecurity) has made her pull back since she hasn't been able to hit that goal, and it's discouraging to her. That said, she has already said she's in for the UHomB, so this is a great opportunity to encourage her and help her set a goal that she can achieve and feel good about.
 UHomB, would like to contribute a 1-hr meal planning and prep workshop
 
 
@@ -183,7 +192,8 @@ UHomB, would like to contribute a 1-hr meal planning and prep workshop
 * Joshua		josh@expertphotography.com
 
 
-* Kalyn Brooke		kalynbrooke@gmail.com
+**Kalyn Brooke		kalynbrooke@gmail.com**
+Kalyn and her husband were planning to sell their home and tour full-time in an RV, but I think the process is taking longer than expect. They'll be documenting their travels here: https://www.facebook.com/openroading. She's super sweet and talented at both product creation and affiliate marketing.
 PROD, would like to be a super affiliate
 UHomB, would like to contribute again
 
