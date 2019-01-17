@@ -186,10 +186,13 @@ Jessica used to be *extremely* enthusiastic about bundles, with a goal of making
 UHomB, would like to contribute a 1-hr meal planning and prep workshop
 
 
-* Jessica		jessica.fearon@gmail.com
+**Jessi Fearon		jessica.fearon@gmail.com**
+You know, I can't really think of anything that stands out about Jessi. Her speciality is personal finance, but the fact that she's on the leaderboard and I don't know her better tells me there's opportunity there! 
+PERSOFIN, budgeting is her specialty, so we should definitely reach out about that one
 
 
-* Joshua		josh@expertphotography.com
+**Josh Dunlop		josh@expertphotography.com**
+He's already emailed asking about dates for the photography bundle this year, so he's definitely worth reaching out too.
 
 
 **Kalyn Brooke		kalynbrooke@gmail.com**
@@ -198,144 +201,154 @@ PROD, would like to be a super affiliate
 UHomB, would like to contribute again
 
 
-* Katelyn		Katelyn@katelynjames.com
+**Katelyn	James	Katelyn@katelynjames.com**
+She was due with her daughter during the UPB2017 and probably didn't even hit her sales potential, and her preroll was one of my favorite ever! That said, her focus is really on training professional photographers to help them grow their business, so I'm not sure there's a fit for her this year. (And she declined to participate last year because of timing.)
 
 
-* Katie		katie@kitchenstewardship.com
+**Katie Kimball		katie@kitchenstewardship.com**
+Katie is a member of Ryan & Stephanie's family mastermind group and has been a loyal contributor & affiliate from the beginning. She's direct & blunt but wants what's best for everyone, so she's a great one to bounce ideas off of (although we don't always agree with her conclusions). She seemed a bit stretched in 2018 and was a little harder to pin down on things, but don't feel bad about following up with her. She likes to hop on Zoom rather than chat back and forth on email. :) 
 
 
-* Katie		katie@wellnessmama.com
+**Katie Wells		katie@wellnessmama.com**
+This Katie is also a member of the Langford's mastermind and they are close friends. Her last name is really Spears, but she carefully guards that online and goes by Katie Wells. Her husband, Seth Spears, specializes in SEO and has purchased multiple sites in this space over the past few years (Crunchy Betty, Mama & Baby Love, Keeper of the Home). They're VERY business savvy. When they promote bundles, they sell a lot, but they've pulled back quite a bit over the past year, and Ryan & Stephanie don't want to use their friendship to influence that too much.
 
 
-* Kayse		kayse.pratt@gmail.com
+**Kayse Pratt		kayse.pratt@gmail.com**
+During the 2015 Homemaking Bundle, Kayse too everyone by surprise with 15% conversion rates (which were pretty unheard of at that point) and ending up near the top of the leaderboard despite a relatively small audience. She continues to make the UHomB one of her main promotions of the year, but has also done some pretty cool stuff like launching a physical planner this year. She's moved all of her products to "ecourse" formats that require registration on her site, but I think she understands that the amount of content has to justify us setting it up that way for customers.
 
 
-* Kelly McNelis 	kelly@newleafwellness.biz
+**Kelly McNelis 	kelly@newleafwellness.biz**
+Kelly writes & publishes freezer meal cookbooks and has built a HUGE business around them. The timing of recent UHomB/UHLB bundles hasn't worked with her own promotions, but she's interested in contributing her ebook course to the TGBTK, which I think would be a great addition!
 TGBTK, would like to contribute an ecourse about marketing ebooks
 
 
-* Kelly		kelly@stickyblogging.com
+**Kelly Holmes		kelly@stickyblogging.com**
+Kelly has both a lifestyle blog & a blogging blog. She did well during the TGBTK, but I don't think there's a lot of loyalty there, and it may be worth cultivating that relationship in 2019.
 
 
-* Kresha		kresha@nourishingjoy.com
+**Kresha Faber		kresha@nourishingjoy.com**
+Oh, Kresha. :) We love Kresha, and she's personal friends with Ryan & Stephanie. That said, with the addition of her new baby, she's had a really hard time meeting deadlines and left us scrambling at the last minute at least twice in 2018. We absolutely have a place for her in bundles (and she has a lot of creative marketing ideas to learn from!), but I would not accept a product that wasn't 100% complete in the future just to avoid those sticky situations.
 
 
-* Kyle		kyle@shultzphotoschool.com
+**Kyle Schultz		kyle@shultzphotoschool.com**
+Kyle has a lot of great products specifically for moms/parents learning to shoot their families, and he'd be a great addition to the new photography mini bundle. He's a really nice guy and seems pretty loyal to UB at this point.
 
 
-* Laney		laney@digital-photography-school.com
-
-
-* Laura		laura@heavenlyhomemakers.com
+**Laura Coppinger		laura@heavenlyhomemakers.com**
+I feel like Laura's enthusiasm for bundles has waned a bit in 2018, and I can't quite pinpoint why. She still agrees to participate, but we don't see her sell as many bundles or go as "all-in". This could be because her family has started fostering little ones (I believe they have one preschooler on a foster-to-adoption path and recently accepted a baby as well) and they're back in those "busy" years with little ones underfoot. It may be worth seeing if there's a way to get her to buy in more, although I respond to her email newsletters a fair bit, so I don't think the issue is engagement on our end.
 
  
-* Laura		iheartplanners@gmail.com
+**Laura Smith		iheartplanners@gmail.com**
+Laura is unassuming and easy to underestimate, but she is a marketing genius! (I also love her genuine enthusiasm for life—guaranteed that she laughs within 30 seconds of starting a conversation with her!). We met her in person at Activate 2017 and saw her again in 2018, and her success with summits & funnels is one of the impetus behind our decision to do the PERSOFIN conference model. Her business is exploding, so it can be hard to get in touch with her, but I haven't seen any indication that she's not interested in working with us, so it's worth following up until you hear back.
 
 
-* Lauren		themilitarywifeandmom@gmail.com
+**Lauren Tamm		themilitarywifeandmom@gmail.com**
+We don't hear from Lauren a lot and have never made much of a personal connection, but she's a loyal & regular contributor to the UHomB (usually in partnership with Rachel Norman). Her husband (and their family) have been stationed in Japan for many years but recently came back stateside.
 
 
-* Lea		leaharrisUEOS@gmail.com
+**Lea Harris		leaharrisUEOS@gmail.com**
+Lea is a controversial figure in the EO space, and I think she likes it that way. :) She takes a hard stance against internal usage of EOs and for the conservative dilution of many oils, and many (Eric Z comes to mind) think that she undermines the actual science in the area. Interesting side note: Heather Dessinger is a huge Lea fan and takes much of her approach to oils from Lea's handbook. Some of Lea's products are wonderful and others are meh, and she hasn't sold nearly as many bundles recently (FB shut down her old, very big group, which affected her reach pretty significantly), so don't be afraid to push back. Personally: She's open about leaving an abusive marriage (her ex-husband is in jail), and a year or so ago she met a guy on FB and moved to Minnesota (?) to get married. 
 
 
-* Lena		lena@whatmommydoes.com
+**Lena Gott		lena@whatmommydoes.com**
 
 
-* Leslie		leslie@lambertslately.com
+
+**Leslie		leslie@lambertslately.com**
 
 
-* Maria Emmerich		craigmaria@gmail.com
+**Maria Emmerich		craigmaria@gmail.com**
 
 
-* Mark Ziglar		Mark@ziglarfamily.com
+**Mark Ziglar		Mark@ziglarfamily.com**
 
 
-* Melissa Ringstaff		melissaringstaff@avirtuouswoman.org
+**Melissa Ringstaff		melissaringstaff@avirtuouswoman.org**
 
 
-* Melissa Norris		melissaknorris@juno.com
+**Melissa Norris		melissaknorris@juno.com**
 
 
-* Mique Provost		info@thirtyhandmadedays.com
+**Mique Provost		info@thirtyhandmadedays.com**
 
 
-* Missy		missy@howdoesshe.com
+**Missy		missy@howdoesshe.com**
 
 
-* Monica Froese		monica.n.froese@gmail.com
+**Monica Froese		monica.n.froese@gmail.com**
 
 
-* Myquillyn Smith		nestergirl@gmail.com
+**Myquillyn Smith		nestergirl@gmail.com**
 
 
-* Nicholas		nick@sidehustlenation.com
+**Nicholas		nick@sidehustlenation.com**
 
 
-* Rachel Norman		amotherfarfromhome@gmail.com
+**Rachel Norman		amotherfarfromhome@gmail.com**
 UHomB, would like to contribute again
 
 
-* Renee Harris		renee@hardlotion.com
+**Renee Harris		renee@hardlotion.com**
 
 
-* Richard Schneider		picturecorrect@gmail.com
+**Richard Schneider		picturecorrect@gmail.com**
 
 
-* Robert		support@oil-testimonials.com
+**Robert		support@oil-testimonials.com**
 
 
-* Rosalee de la Foret		rosalee@herbalremediesadvice.org
+**Rosalee de la Foret		rosalee@herbalremediesadvice.org**
 HEOSB, would like to contribute
 
 
-* Rosemarie Groner		busybudgeter@gmail.com
+**Rosemarie Groner		busybudgeter@gmail.com**
 
 
-* Ruth Soukup		ruth@livingwellspendingless.com
+**Ruth Soukup		ruth@livingwellspendingless.com**
 
 
-* Saren Loosli		saren@poweroffamilies.com
+**Saren Loosli		saren@poweroffamilies.com**
 
 
-* Sheila Wray Gregoire		gregoire.sheilawray@gmail.com
+**Sheila Wray Gregoire		gregoire.sheilawray@gmail.com**
 
 
-* Stephanie Morgan		modernparentsmessykids@GMAIL.COM
+**Stephanie Morgan		modernparentsmessykids@gmail.com**
 
 
-* Suzi Whitford		startamomblog@gmail.com
+**Suzi Whitford		startamomblog@gmail.com**
 TGBTK, would like to contribute
 
 
-* Tara		affiliateteam@thedatingdivas.com
+**Tara		affiliateteam@thedatingdivas.com**
 
 
-* Tasha Agruso		tasha@designertrapped.com
+**Tasha Agruso		tasha@designertrapped.com**
 
 
-* Taylor Flanery		taylor.flanery@gmail.com
+**Taylor Flanery		taylor.flanery@gmail.com**
 
 
-* Libby Jenkison		ditchthecarbs@gmail.com
+**Libby Jenkison		ditchthecarbs@gmail.com**
 
 
-* Tiffany Crumbs		tiffany@dontwastethecrumbs.com
+**Tiffany Crumbs		tiffany@dontwastethecrumbs.com**
 
 
-* Trisha Gilkerson		intoxicatedonlifemail@gmail.com
+**Trisha Gilkerson		intoxicatedonlifemail@gmail.com**
 
 
-* Tsh Oxenreider		tshoxenreider@gmail.com
+**Tsh Oxenreider		tshoxenreider@gmail.com**
 PROD, super affiliate
 UHomB, would like to contribute
 UHLB, super affiliate
 TGBTK, would like to contribute if she can finish her product in time
 
 
-* Victoria Osborn		creativehomekeeper@gmail.com
+**Victoria Osborn		creativehomekeeper@gmail.com**
 
 
-* Wardee Harmon		wardeh@traditionalcookingschool.com
+**Wardee Harmon		wardeh@traditionalcookingschool.com**
 
 
-* Will Falconer		drfalconer@VitalAnimal.com
+**Will Falconer		drfalconer@VitalAnimal.com**
