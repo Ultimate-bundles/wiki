@@ -39,6 +39,8 @@
 Opt-in link: https://ultimatebundles.com/subscribe?BUNDLECODEHERE
 Opt-out link: https://ultimatebundles.com/mute/INSERT-BUNDLE-NAME-HERE
 
+**Adding bundles to user accounts:** https://www.dropbox.com/s/ootcvw7oojhohn1/Adding%20Bundles%20to%20User%20Accounts.mov?dl=0
+
 # Things to be updated
 Overall strategy docs & videos in affiliate portal (Marketing Training > Overall Strategy)
 Email marketing, blogging strategy, & social media strategy videos in Marketing Training
