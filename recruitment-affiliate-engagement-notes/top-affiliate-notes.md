@@ -251,19 +251,23 @@ Lea is a controversial figure in the EO space, and I think she likes it that way
 
 
 **Lena Gott		lena@whatmommydoes.com**
-
+Lena flies a bit under the radar but has really great blogging products. I think her goal last year was to swoop from under the radar and top the TGBTK leaderboard, which didn't quite happen. I don't know if that's left her feeling discouraged about bundles or not, but she's definitely one we want on board for the quality & authority of her products!
 
 
 **Leslie		leslie@lambertslately.com**
+Leslie is a meal planning/recipe contributor who doesn't make many waves but consistently sells bundles. I think there's probably opportunity here to nurture a stronger relationship with her!
 
 
 **Maria Emmerich		craigmaria@gmail.com**
+Maria is well known outside of blog circles for her keto books & cookbooks. I mostly communicate with her husband Craig. He's not super chatty but always seems excited to jump onboard for a bundle, and they consistently promote. They have two little boys who were adopted from Ethiopia, and they love outdoor adventures. (Side note: Maria has the most amazing photos and videos on her Facebook page of her paddleboarding with a mama & baby humpback whale. They're just breathtaking!)
 
 
-**Mark Ziglar		Mark@ziglarfamily.com**
+**Mark Timm		Mark@ziglarfamily.com**
+Mark is one of Ryan's best friends. He owns/runs Ziglar Family, which is the organization dedicated to keeping Zig Ziglar's legacy & words alive through books, memberships, etc. He and his wife (Ann) also purchased Keeper of the Home from Stephanie several years ago but have since sold it. They are pretty much guaranteed super affiliate status for any bundle they request but didn't promote much in 2018. Jen Truitt is our main contact at Ziglar Family: jen@ziglarfamily.com
 
 
 **Melissa Ringstaff		melissaringstaff@avirtuouswoman.org**
+Melissa does really well with product sales on her own and can be a bit hard to nail down; it's worth nurturing a relationship with her to see if we can get a stronger commitment from her for future bundles! 
 
 
 **Melissa Norris		melissaknorris@juno.com**
@@ -279,9 +283,6 @@ Lea is a controversial figure in the EO space, and I think she likes it that way
 
 
 **Myquillyn Smith		nestergirl@gmail.com**
-
-
-**Nicholas		nick@sidehustlenation.com**
 
 
 **Rachel Norman		amotherfarfromhome@gmail.com**
@@ -349,6 +350,8 @@ TGBTK, would like to contribute if she can finish her product in time
 
 
 **Wardee Harmon		wardeh@traditionalcookingschool.com**
+Wardee was a core part of the UB team in the beginning, handling the IFS setup and helping with a lot of the marketing decisions. She pulled back several years ago to focus on her business (Traditional Cooking School), which she now runs with her daughter, Haniya. That said, Wardee continues to be our most loyal contributor/affiliate in the health space, and it's always fun to watch and learn from her promotions!
 
 
 **Will Falconer		drfalconer@VitalAnimal.com**
+Will is a natural vet who participates in the HEO & UHLB. He has talked about creating a product around using essential oils for pets or natural remedies for pets but hasn't yet; some of his product ideas are TOO specific and might feel out of place without a broader "natural pet care" category. He can be very direct, which sometimes feels pushy, but he's a really nice guy!
