@@ -41,6 +41,8 @@ Opt-out link: https://ultimatebundles.com/mute/INSERT-BUNDLE-NAME-HERE
 
 **Adding bundles to user accounts:** https://www.dropbox.com/s/ootcvw7oojhohn1/Adding%20Bundles%20to%20User%20Accounts.mov?dl=0
 
+**Loading ads & banners to PAP:** https://drive.google.com/file/d/14i292d03hqtTvvq1aIvh07bmFFoW4j6b/view?usp=sharing
+
 # Things to be updated
 Overall strategy docs & videos in affiliate portal (Marketing Training > Overall Strategy)
 Email marketing, blogging strategy, & social media strategy videos in Marketing Training
