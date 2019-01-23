@@ -271,15 +271,19 @@ Melissa does really well with product sales on her own and can be a bit hard to 
 
 
 **Melissa Norris		melissaknorris@juno.com**
+Melissa is a healthy living / homesteading blogger who also specializes in canning. We've had issues in the past with her submitting partial courses, so that's something to watch for. She doesn't participate in EVERY  bundle, but usually joins for 1 every 12-18 months.
 
 
 **Mique Provost		info@thirtyhandmadedays.com**
+Mique first joined us as an affiliate during the 2017 UHomB and jumped quickly on the leaderboard. I don't think she's done as well since then, in part because she hasn't promoted as much as the first time. She'd be a good one to get onboard and engaged, though! 
 
 
 **Missy		missy@howdoesshe.com**
+Missy has only participated as an affiliate, and we haven't even had many conversations. Cultivating a relationship with How Does She should be a priority in 2019. 
 
 
 **Monica Froese		monica.n.froese@gmail.com**
+Monica is about as direct as they come, but she's also really sweet and kind. She has one daughter in elementary school plus another baby girl and has been open about her strugges with PPD since the birth of the baby. The TGBTK is an important part of her strategy each year, but she's also really strategic in which product she includes and the timing of mini-bundles (like the BPMB). She came *so close* to being the top converter last October but was beat out at the last minute, which I think was really discouraging for her. 
 
 
 **Myquillyn Smith		nestergirl@gmail.com**
