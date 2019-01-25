@@ -6,6 +6,9 @@ Bonus partner agreement: https://docs.google.com/document/d/1c7tQKcmKZ1GDQ7kVVN2
 Bonus partner guide: https://docs.google.com/document/d/1qJjxJORMAn6yv2l_jIfccRVuKbtRBBe3zAkEG-w5Yqc/edit
 Bonus partner tiers explanation: https://www.dropbox.com/s/nurrgl76x4egxvg/Ultimate%20Bundles%20Bonus%20Partner%20Tiers.pdf?dl=0
 
+# Training 
+Loading bonuses to the access area: https://www.dropbox.com/s/ry3hy33jayc2jjv/Bonus%20Partner%20Spreadsheet%20%2B%20Access%20Area.mov?dl=0
+
 # Bonus Partner Policies
 Bonus must be "no strings attached"—a customer must be able to redeem the bonus *without* an additional purchase. 
 
