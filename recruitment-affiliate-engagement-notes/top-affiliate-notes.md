@@ -287,19 +287,19 @@ Monica is about as direct as they come, but she's also really sweet and kind. Sh
 
 
 **Myquillyn Smith		nestergirl@gmail.com**
-
+Myquillyn (known as The Nester) is super conservative about what projects she works on, but she has been a great partner in the past, and it would be worth investigating whether there are additional home decor resources she can add to the Homemaking Bundle. She also partners with Brian Dixon on hope * writers, and there may be an opportunity there for TGBTK.
 
 **Rachel Norman		amotherfarfromhome@gmail.com**
+Rachel is another dynamite marketer who I think sometimes flies under the radar. She's incredible at product creation and affiliate marketing, and we always learn by watching her.
 UHomB, would like to contribute again
 
 
 **Renee Harris		renee@hardlotion.com**
-
-
-**Richard Schneider		picturecorrect@gmail.com**
+Renee has participated numerous times in the UHomB, UHLB & HEOSB as a contributor and/or bonus partner. She's professional and skilled, and while she doesn't have the largest audience, she's a valuable and engaged affiliate. 
 
 
 **Robert		support@oil-testimonials.com**
+Robert runs an essential oils forum of sorts. He is incredibly blunt and pushy, and while he's fairly likable on Zoom, he's decidedly not likable by email. (Past comments include: "Oddly enough, none of the banner images created for Herbs & Essential Oils show any bottles of essential oils. There is one image with two blurry dark glass bottles, but not in the size most people would associate with essential oils.  Can you have your graphic designer come up with something better?  While they are at it, pixel sizes of 500x300 work  best for me. Here is one that I have no idea what it represents.... its so dark and blurry.  Who comes up with these?") but that's just one example of many. He's quieted down in 2018 but did sell a fair number of bundles before that, so I'll leave it up to you whether it's worth rekindling the relationship.
 
 
 **Rosalee de la Foret		rosalee@herbalremediesadvice.org**
