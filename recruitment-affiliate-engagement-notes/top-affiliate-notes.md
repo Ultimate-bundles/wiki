@@ -303,22 +303,29 @@ Robert runs an essential oils forum of sorts. He is incredibly blunt and pushy, 
 
 
 **Rosalee de la Foret		rosalee@herbalremediesadvice.org**
+Rosalee is a well known herbalist with a loyal following. She wasn't able to promote a ton during the HEOSB2017 (her first bundle with us) because of a family emergency; however, she still seems enthusiastic and has since joined us for the UHLB & the flash sales. Definitely worth including in the HEOSB and possibly setting up a call to talk through her promotional plan.
 HEOSB, would like to contribute
 
 
 **Rosemarie Groner		busybudgeter@gmail.com**
+Rosemarie is AMAZING, an expert in affiliate marketing and a pioneer in set-it-and-forget-it funnels. In 2018 her father got sick and passed away, and she was able to put her business on autopilot to focus on family. She dropped out of contact during the UHomB2018 and hasn't really picked back speed. Would be worth asking Steph to reach out to her about 2019 bundles because they had a long lunch at Activate and really connected.
 
 
 **Ruth Soukup		ruth@livingwellspendingless.com**
+In the summer of 2018, Ruth and her team said that they'd no longer be participating in bundles, citing a number of reasons (the traffic that they send to other content creators without getting a huge amount in return, the competition of other physical planner companies, time & ROI). However, at the last minute they agreed to participate in TGBTK and ended up blowing past their previous earnings. Although they're not participating in UHomB2019 because of the launch of Ruth's book at that time, they have said they want to participate in TGBTK2019. They can be upfront about what they need, but they're also really kind, and I try to approach all conversations as truly wanting them to do what's best for their company while also listening for ways that we can help achieve that. 
+UHomB, not able to participate in 2019
+TGBTK, definitely interested
 
 
 **Saren Loosli		saren@poweroffamilies.com**
+We originally met Saren when she partnered with Desi Ward for the Mom Conference. They eventually split (although I think I may have seen that they partnered again recently?) and Saren became a loyal affiliate who has successfully promoted quite a few bundles. We did have a string of issues last year where her attribution wasn't working properly (and not at the proper commission rate), so it's worth checking in with her before/during each bundle just to continue to rebuild that trust. She can be tricky to get in touch with sometimes, but don't be afraid to send a follow up rather than writing her off as disinterested.
 
 
 **Sheila Wray Gregoire		gregoire.sheilawray@gmail.com**
 
 
 **Stephanie Morgan		modernparentsmessykids@gmail.com**
+Stephanie actually applied and interviewed for the Affiliate Manager role, and it will be interesting to see if that impacts her enthusiasm for UB in 2019. She almost always reaches out at the very last possible minute (often after a bundle has started) to request super affiliate status, ask questions about the bundle or a bonus offer, etc. (even when I reach out to her early). But she has good reach and sells a fair number of bundles, so we expect and roll with it.
 
 
 **Suzi Whitford		startamomblog@gmail.com**
@@ -344,6 +351,7 @@ TGBTK, would like to contribute
 
 
 **Tsh Oxenreider		tshoxenreider@gmail.com**
+Tsh has been through several stages of blogging—traditional, every day blogging a decade ago, a magazine-style site (with sister sites like Simple Homeschool & Simple Bites), contributor posts only, etc. These days her main focus is on her podcast, her Patreon community, product creation & book writing, although she has started blogging again occasionally. She is focused in her promotions and committed to only doing what's right for her audience, while maximizing her earnings, which makes it really fun to watch her promotions and learn from her creativity.
 PROD, super affiliate
 UHomB, would like to contribute
 UHLB, super affiliate
@@ -351,6 +359,7 @@ TGBTK, would like to contribute if she can finish her product in time
 
 
 **Victoria Osborn		creativehomekeeper@gmail.com**
+Victoria is a lovely person and a regular affiliate, but I don't know that I have much more to add. I see that as another opportunity for Jami to strengthen the relationship in 2019,
 
 
 **Wardee Harmon		wardeh@traditionalcookingschool.com**
