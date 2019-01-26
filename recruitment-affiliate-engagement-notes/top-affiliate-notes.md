@@ -322,6 +322,7 @@ We originally met Saren when she partnered with Desi Ward for the Mom Conference
 
 
 **Sheila Wray Gregoire		gregoire.sheilawray@gmail.com**
+Sheila is an amazing blogger & speaker, and I love how intentional she is about segmenting her list, trying new things, and choosing opportunities. She typically contributes either to UHomB or UHLB, but not always both in a single year. She's one to watch when she does participate because we always learn something new.
 
 
 **Stephanie Morgan		modernparentsmessykids@gmail.com**
@@ -329,25 +330,30 @@ Stephanie actually applied and interviewed for the Affiliate Manager role, and i
 
 
 **Suzi Whitford		startamomblog@gmail.com**
+Suzi is business savvy and enthusiastic. She is open about what she needs to make a promotion a win but also quick to ask questions and learn from others. Definitely a valuable contributor to this bundle.
 TGBTK, would like to contribute
 
 
 **Tara		affiliateteam@thedatingdivas.com**
-
+The Dating Divas' team consists of 5+ women, and we tend to talk to whoever is running their affiliate promotions at the time. During a recent UHomB they saw an incredible 50% conversion rate, which caught my attention for obvious reasons, but I never have been able to figure out how they did it (they're response was, "We're just following your recommendations.") Most of their products are marriage/date night focused, although they do have a few kid products as well.
 
 **Tasha Agruso		tasha@designertrapped.com**
 
 
 **Taylor Flanery		taylor.flanery@gmail.com**
+Taylor has been a super affiliate for a couple years now, often topping the leaderboard. Her preroll videos have historically been so-so, so we're not really encouraging her to do those, but she did email about *finally* being able to contribute to a bundle. She is very politically outspoken about her liberal leanings, and it surprises me a bit that she participates in the UHomB where there are many notably conservative contributors. Her site also feels a bit old-school and doesn't really follow any of the "rules" about blogging, but it's extremely successful and profitable.
 
 
 **Libby Jenkison		ditchthecarbs@gmail.com**
+Libby is another straight shooter that can be intimidating and make you feel as if you've done something wrong by the way she writes her emails. However, I've had to push back multiple times, and she always concedes quickly & graciously, so I think it really is just the way she comes across and not her true intent. She sells tons of bundles doing things her way (i.e. I haven't had much interaction with her in 1-on-1s about her strategy).
 
 
 **Tiffany Crumbs		tiffany@dontwastethecrumbs.com**
+I'm not entirely sure what to think about Tiffany. For awhile she was a loyal and regular contributor. We connected with her in fall of 2017 about possibly recording a meal planning ecourse for us, but in the end decided (mutually, I thought) that it wasn't the right timing to do it, and she's been hard to connect with ever since. It may be that she's simply busy with her own launches and the timing hasn't worked out, but it would be worth trying to rekindle that relationship and get her back on board in 2019.
 
 
 **Trisha Gilkerson		intoxicatedonlifemail@gmail.com**
+Trisha & her husband Luke blog about faith, education & family life and also publish a ton of ebooks, ecourses & homeschool curricula. She's also a busy, homeschooling mom of 5 (?) including a baby, so she can be a bit tricky to pin down, but her products are high quality, and it's definitely worth reaching out early and often to look for opportunities for them to contribute.
 
 
 **Tsh Oxenreider		tshoxenreider@gmail.com**
