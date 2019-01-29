@@ -43,6 +43,8 @@ Opt-out link: https://ultimatebundles.com/mute/INSERT-BUNDLE-NAME-HERE
 
 **Loading ads & banners to PAP:** https://drive.google.com/file/d/14i292d03hqtTvvq1aIvh07bmFFoW4j6b/view?usp=sharing
 
+**Bonus Partner Spreadsheet + Access Area:** https://www.dropbox.com/s/ry3hy33jayc2jjv/Bonus%20Partner%20Spreadsheet%20%2B%20Access%20Area.mov?dl=0
+
 # Things to be updated
 Overall strategy docs & videos in affiliate portal (Marketing Training > Overall Strategy)
 Email marketing, blogging strategy, & social media strategy videos in Marketing Training
