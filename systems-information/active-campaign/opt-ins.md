@@ -31,6 +31,13 @@ All form styles are set in the Active Campaign form editor. You can reference ot
 
 **Custom CSS**
 ```text
+._form-title {
+	text-align: center;
+	font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
+	font-size: 36px !important;
+	line-height: 36px !important;
+	margin-bottom: 30px !important;
+}
 input {
 	padding: 10px !important;
 	font-size: 22px !important;
