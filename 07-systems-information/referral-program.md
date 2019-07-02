@@ -56,5 +56,7 @@ These rewards can be managed here: https://app.ontraport.com/login.php#!/coupon/
 
 The name of the reward will contain the best information we have about who owns it. Either an email address (in most cases) or a referral code if something went wrong along the way.
 
-# Video Training Summary
-The above information, and much more was covered in a recorded training session, visible here:
+# Training
+A slide deck about the referral program is here: https://docs.google.com/presentation/d/1fpQHioe9zCGcXSOKNN4a8XIvy7EC-4jQ36TS-LiwnyM/edit#slide=id.p
+
+The above information, and much more was covered in a recorded training session, visible here: 
