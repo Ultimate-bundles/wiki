@@ -59,4 +59,4 @@ The name of the reward will contain the best information we have about who owns 
 # Training
 A slide deck about the referral program is here: https://docs.google.com/presentation/d/1fpQHioe9zCGcXSOKNN4a8XIvy7EC-4jQ36TS-LiwnyM/edit#slide=id.p
 
-The above information, and much more was covered in a recorded training session, visible here: 
+The above information, and much more was covered in a recorded training session, visible here: https://drive.google.com/open?id=1FWs-IdEXtwuNNqXadkzU0o8NoObukgkU
