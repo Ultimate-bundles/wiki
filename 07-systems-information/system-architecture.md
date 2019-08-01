@@ -49,15 +49,15 @@ This image shows the flow of traffic and a few of the parts of the UBCom app and
 
 ### Platforms and their roles
 
-Route 53
+**Route 53**
 https://console.aws.amazon.com/route53/home
 Route 53 is Amazon's DNS management utility. The destinations of our domains are managed here.
 
-Linode VPS and Cloud Manager
+**Linode VPS and Cloud Manager**
 https://cloud.linode.com/linodes
 Linode is our VPS provider, and their cloud manager provides monitoring and controls for hardware level issues. 
 
-Forge
+**Forge**
 https://forge.laravel.com/servers
 Forge provides a ton of server configuration automation and management tools. In short, it automates the difficult and finicky parts of setting up and running production servers. It allows us to spin up new servers automatically, manage their databases, applications, and even provides some automated deployment tools through integrations with version control. Some common tasks accomplished in forge include...
 
@@ -74,7 +74,7 @@ Forge provides a ton of server configuration automation and management tools. In
 * Manage SSL certs
 * Manage Nginx Config and add redirects
 
-Envoyer
+**Envoyer**
 https://envoyer.io/dashboard
 Envoyer is a zero-downtime deployment tool, providing Continuous Integration or CI. It has a few convenience features we use, but for the most part is used entirely for it's deployment pattern. This pattern follows a few simple steps:
 
@@ -84,40 +84,44 @@ Envoyer is a zero-downtime deployment tool, providing Continuous Integration or 
 
 This process ensures there is no downtime when updating an application to the latest version. It is currently only used for the production server of the main UB website.
 
-Github
+**Github**
 https://github.com
 Remote for all git repositories.
 
-Imperva
+**Imperva**
 https://www.imperva.com/
 Imperva (formerly Incapsula) is a firewall on steroids. For certain domains that use it, it sites in between Route 53 DNS and the application server itself, shielding the application server from unwanted attacks by managing DNS itself. This is currently only used on the divi application server, protecting it's REST data routes using an IP whitelist, which contains only application servers and developer IPs.
 
-Access Site
+**Access Site**
 https://access.ultimate-bundles.com
 Wordpress install which allows customers to access their bundles. Access is granted using an API made available by app/themes/bundleaccess/inc/user/register.php. After a successful purchase, Ontraport sends a request to this endpoint and grants access to the bundle for the user.
 
 Admins can also add content to bundles here, using the bundle, bonus, and product post types.
 
-CDN
+**CDN**
 https://cdn.ultimatebundles.com
 A pair of simple file servers which sync using Dropbox. All the actual bundle content is stored in dropbox, made public here, and then "shared" in the access site. 
 
-Staging
+**Staging**
 https://staging.ultimatebundles.com
 A copy of the UBCOM app, except that it uses the dev branch of the ultimatebundles git repository. Pushing to dev will automatically deploy to staging. To then push into master, create a pull request from dev -> master and approve it.
 
-UBCOM
+**UBCOM**
 https://ultimatebundles.com
 The main application. Handling the brochure site, sales pages, blog, and many many behind-the-scenes APIs as well.
 
-Sales Pages
+**Sales Pages**
 https://ultimatebundles.com/sale/whatever
 A controller and content interface for rapidly making landing and sales pages using the Divi content builder. 
 
-Divi
+**Divi**
 https://divi.ultimatebundles.com
 Wordpress install which has the Divi theme and allows us to easily build new landing and sales pages rapidly. Also acts as a content repository for brochure pages, settings, and other misc site content.
 
-Dropbox
+**Dropbox**
 https://dropbox.com
 Syncs files across the Dropbox web interface and the 2 CDN servers.
+
+**Backups**
+https://www.sweetprocess.com/procedures/aJ2yMu6Gpo/switching-between-main-and-backup-servers/
+There are duplicate servers for UBCOM, Divi, and and Divi Database Server. Reference Sweetprocess for instructions on how to switch between them.
