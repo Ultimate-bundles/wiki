@@ -9,14 +9,28 @@
 This image shows an overview of UB's routing and server management. Notes:
 
 1. Orange arrows represent public traffic. Requests to ultimatebundles.com or access.ultimate-bundles.com/wp-admin, for example. Note that this includes any traffic created by admins as well as site visitors and customers. All traffic is identical in the eyes of these systems; Authentication is handled at the application level.
-1. Purple arrows represent private encrypted connections, like SSH.
-1. Blue clouds represent cloud services. Each is obviously its own entire ecosystem, but for our purposes they can be oversimplified as single entities which communicate perfectly and instantly.
-1. Public traffic requests the IP of a domain name like ultimatebundles.com. Route 53 handles these requests, forwarding them to the apropriate IP address. For requests to all servers but the divi application server, these requests go directly to nginx on the apropriate server. For divi, those requests go to Imperva instead, which controls the traffic for security, and forwards allowed traffic onwards as normal.
-1. The large black box titled "VPS Rackspace" represents the virtual rackspace provided by Linode and Digital Ocean. Obviously individual requests are only sent to the correct individual server, but representing all of them on this image would be a waste of space.
-1. Linode Cloud Manager has a direct connection to each server they provide, similar to plugging a mouse and keyboard into a physical machine directly. However, it is mostly only used for monitoring the hardware resources rather than changing them.
-1. Forge and Envoyer work together to provide simpler, safer, easier server management. Forge for server utilities, Envoyer for CI.
+2. Purple arrows represent private encrypted connections, like SSH.
+3. Blue clouds represent cloud services. Each is obviously its own entire ecosystem, but for our purposes they can be oversimplified as single entities which communicate perfectly and instantly.
+4. Public traffic requests the IP of a domain name like ultimatebundles.com. Route 53 handles these requests, forwarding them to the apropriate IP address. For requests to all servers but the divi application server, these requests go directly to nginx on the apropriate server. For divi, those requests go to Imperva instead, which controls the traffic for security, and forwards allowed traffic onwards as normal.
+5. The large black box titled "VPS Rackspace" represents the virtual rackspace provided by Linode and Digital Ocean. Obviously individual requests are only sent to the correct individual server, but representing all of them on this image would be a waste of space.
+6. Linode Cloud Manager has a direct connection to each server they provide, similar to plugging a mouse and keyboard into a physical machine directly. However, it is mostly only used for monitoring the hardware resources rather than changing them.
+7. Forge and Envoyer work together to provide simpler, safer, easier server management. Forge for server utilities, Envoyer for CI.
 
 ### Application Ecosystem
+![Ub Tech Architecture Application Ecosystem](/uploads/ub-tech-architecture-application-ecosystem.png "Ub Tech Architecture Application Ecosystem")
+
+This image shows a more granular perspective of the types of traffic hitting our servers, and a list of the servers themselves. Notes:
+
+1. Orange arrows reprsent public traffic from visitors and customers.
+2. Red arrows represent public traffic from staff and admins, who authenticate at each application.
+3. Purple arrows represent secure integrations between systems, either through authenticated APIs, direct database connections, or other direct secret communications
+4. The blue server AccessUltimateBundlesCom is the access site. This is the one server that's actually on a DigitalOcean VPS. It's a wordpress site with it's own integrated DB.
+5. The CDN servers work together to serve the bundle content. All the content is public and accessible to anyone, but most people aren't aware of how to get the content except through the access site, which requires authentication to get the URLs. The two servers work together using Route 53's Weighted Routing Policy, which splits all traffic to the domain to the two different servers evenly. The CDN's content is made accessible in it's filesystem in a Dropbox-synced folder. This allows staff to easily load new content by simply putting it into folders in a shared Dropbox account, which after syncing, automatically makes it accessible publicly and generates a URL for it.
+6. The UltimateBundlesComApp ecosystem is complex. The main application is depicted in the middle of the 3, with the staging site to its left and the divi content manager to its right. The staging site is a near-exact copy of the main site, except that it pulls the application from the dev branch of the git repository, while the main app uses master.
+7. The divi content management works like this: The Divi APP is a WP instance on its own server. It interfaces with a remote DB on its own server. The applications (both staging and production) interface with both the database AND the divi WP site. They can connect directly to the DB for some requests for their content, but also use the ACF REST API provided by the WP plugin on the divi app server. In short, these applications are using both the DB directly and indirectly through an API run by Wordpress. The details of these connections will be explored below.
+
+### UltimateBundlesCom
+
 
 
 
