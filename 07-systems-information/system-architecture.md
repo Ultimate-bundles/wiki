@@ -31,8 +31,21 @@ This image shows a more granular perspective of the types of traffic hitting our
 
 ### UltimateBundlesCom
 
+![Ub Tech Architecture Ubcom Connections](/uploads/ub-tech-architecture-ubcom-connections.png "Ub Tech Architecture Ubcom Connections")
 
+This image shows the flow of traffic and a few of the parts of the UBCom app and how they work together. Notes:
 
+1. Routing in the app starts in Nginx. See the .conf files in Forge for details. It first checks if the traffic is for the blog, in which case it passes the traffic to Wordpress. If not, it passes it to PHP through fast-cgi.
+2. If the traffic is non-blog, then Laravel handles the routing using it's MVC architecture. You can see all the routes in /routes/web and /routes/api, and you can see their corresponding controllers in /app/Http/controllers.
+3. The Brochure controller handles all traffic to the "brochure site". These are the visitor-facting pages at ultimatebundles.com/ and include other pages like /become-an-affiliate or /privacy-policy. This controller heavily relies on the Content Repository, which interfaces with the Divi WP Site through its REST API and directly through the Divi Database. In short, after receiving the request for the home page (for example), the Brochure Controller calls the Content Repository, telling it to retrieve all the necessary content for the home page. The content repository makes a DB call (and may also use the REST API) and returns the page content. Laravel then renders that into a view using the app.pug layout.
+4. The Sale Page controller handles all traffic to /sale. This route exists just for sales pages, landing pages, etc. When a request hits this route, the Sale Page Controller calles the Content Repository, telling it to retrieve all the necessary content for the page matching the URL slug. The content repository makes a DB call (and may also use the REST API) and returns the page content. Laravel then renders that into a view using the divi.pug layout.
+5. The Cart Abandon Controller is a simple API endpoint which receives a ActiveCampaign Automation ID in the URL and simply triggers that Automation for a provided contact.
+6. The Commissions Controller is a simple API endpoint which receives information about an affiliate commission which needs to be created, and integrates with PostAffiliatePro to log that commission.
+7. The Stats Controller is a simple API endpoint which receives requests from ajax on configured sales pages. It integrates with Ontraport to count the number of relevant sales, and returns that number if it meets certain thresholds.
+8. The Top Affiliates Controller is a simple API endpoint which receives requests from a script in the Bundle Reporting Spreadsheet, and returns all the affiliates who have earned anything during the sale, sorted by the commissions earned.
+9. The Action Controller is a kind of zapier of our own design. It accepts a single request from an Ontraport Webhook Action, and then takes a great number of actions automatically. The actions to be taken can be configured in an Action Set post in the Divi Wordpress site. This system was plagued by issues however, so it's largely unused at the moment, except for a few very old evergreen bundles. The problems seemed to stem from silent errors in the job queue, which would cause the actions to fail without notifying anyone of the problem. This manifested in a flash sale which gave access to almost no customers, causing a lot of headaches for Customer Service. This service has the potential to simplify a lot of things, but would need to be retooled and heavily tested before deployment to production.
+10. The Event Tracking Controller is a simple link redirecting route, which will pass the visitor on to a destination (provided in the URL params) but also log an event in Active Campaign for the user. Its purpose is to allow us to see which bonuses and products customers are downloading from the Access Site.
+11. The Referral Program is a set of routes and controllers that compose an entire REST API. This API powers the entire referral program.
 
 ### Platforms and their roles
 
@@ -74,3 +87,25 @@ This process ensures there is no downtime when updating an application to the la
 Imperva
 https://www.imperva.com/
 Imperva (formerly Incapsula) is a firewall on steroids. For certain domains that use it, it sites in between Route 53 DNS and the application server itself, shielding the application server from unwanted attacks by managing DNS itself. This is currently only used on the divi application server, protecting it's REST data routes using an IP whitelist, which contains only application servers and developer IPs.
+
+Access Site
+https://access.ultimate-bundles.com
+Wordpress install which 
+
+CDN
+https://cdn.ultimatebundles.com
+
+Staging
+https://staging.ultimatebundles.com
+
+UBCOM
+https://ultimatebundles.com
+
+Sales Pages
+https://ultimatebundles.com/sale/whatever
+
+Divi
+https://divi.ultimatebundles.com
+
+Dropbox
+https://dropbox.com
