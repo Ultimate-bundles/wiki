@@ -84,28 +84,40 @@ Envoyer is a zero-downtime deployment tool, providing Continuous Integration or 
 
 This process ensures there is no downtime when updating an application to the latest version. It is currently only used for the production server of the main UB website.
 
+Github
+https://github.com
+Remote for all git repositories.
+
 Imperva
 https://www.imperva.com/
 Imperva (formerly Incapsula) is a firewall on steroids. For certain domains that use it, it sites in between Route 53 DNS and the application server itself, shielding the application server from unwanted attacks by managing DNS itself. This is currently only used on the divi application server, protecting it's REST data routes using an IP whitelist, which contains only application servers and developer IPs.
 
 Access Site
 https://access.ultimate-bundles.com
-Wordpress install which 
+Wordpress install which allows customers to access their bundles. Access is granted using an API made available by app/themes/bundleaccess/inc/user/register.php. After a successful purchase, Ontraport sends a request to this endpoint and grants access to the bundle for the user.
+
+Admins can also add content to bundles here, using the bundle, bonus, and product post types.
 
 CDN
 https://cdn.ultimatebundles.com
+A pair of simple file servers which sync using Dropbox. All the actual bundle content is stored in dropbox, made public here, and then "shared" in the access site. 
 
 Staging
 https://staging.ultimatebundles.com
+A copy of the UBCOM app, except that it uses the dev branch of the ultimatebundles git repository. Pushing to dev will automatically deploy to staging. To then push into master, create a pull request from dev -> master and approve it.
 
 UBCOM
 https://ultimatebundles.com
+The main application. Handling the brochure site, sales pages, blog, and many many behind-the-scenes APIs as well.
 
 Sales Pages
 https://ultimatebundles.com/sale/whatever
+A controller and content interface for rapidly making landing and sales pages using the Divi content builder. 
 
 Divi
 https://divi.ultimatebundles.com
+Wordpress install which has the Divi theme and allows us to easily build new landing and sales pages rapidly. Also acts as a content repository for brochure pages, settings, and other misc site content.
 
 Dropbox
 https://dropbox.com
+Syncs files across the Dropbox web interface and the 2 CDN servers.
