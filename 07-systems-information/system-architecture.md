@@ -2,6 +2,7 @@
 <!-- SUBTITLE: A quick summary of System Architecture -->
 
 # A full guide to Ultimate Bundles System Architecture
+**WATCH A VIDEO SUMMARY OF THIS ARTICLE HERE:** https://www.loom.com/share/be4c4bde3e0c43b5afe72a30f9bed150
 
 ### Routing and Server Management
 ![Ub Tech Architecture Routing And Server Management](/uploads/ub-tech-architecture-routing-and-server-management.png "Ub Tech Architecture Routing And Server Management")
