@@ -108,12 +108,26 @@ Orange: The orange line is the target. It works exactly the same as the blue lin
 
 This chart is used for a single purpose: to see how close we are to achieving budget or target based on how many sales we've made so far in the sale, and how past similar sales have behaved. We predicte how this sale will go using past data. It's a simple calculation but quite effective.
 
-## Data Sources
-
-
-
 ## Loading New Bundles
+
+Follow this process to add a new bundle to the sheet: https://www.sweetprocess.com/procedures/E7aRDcy74k/adding-bundles-to-the-bundle-reporting-spreadsheet/version/720690/edit/
+
+Note that often, this isn't done in one step, but rather over the course of setting up a bundle. The tasks given in asana will include subtasks for completing these steps as you go along.
 
 ## Automatic Data Collection
 
+So how does all this work? How is the data pulled in and saved?
+
+Every 5 minutes, a google apps script is triggered. That script triggers a number of other scripts which integrate with Ontraport, Google Analytics, and Post Affiliate Pro to load data into the sheet. 
+
+To see these scripts and edit them, in the spreadsheet go to Tools > Script Editor.
+
 ## Maintenance
+
+Most of the time this sheet requires not maintenance, other than adding new bundles. However, some notes about keeping it running smoothly:
+
+1. Occasionally the automated scripts will take longer to run than the allowed execution time of 6 minutes. This is rare, but it does happen. It usually doesn't mean anything is broken, but watch for messages from GAS about this, so you can diagnose if there's any other larger problems at play. 
+2. It's very important that a new Top Affiliates sheet is added BEFORE attempting to view the statistics of a bundle on the bundle dashboard. This is because the affilates portion of the dashboard relies on a QUERY() function to run, and if it ever attempts to access a sheet which doesn't exist, it will return an error and be very annoying to fix. You can fix it by simply deleting the formulas and re-entering them, but this is a hassle and unecessary. Just try to remember to create a new Top Affiliates sheet right away, and don't put it off otherwise you'll get that error and even after the new sheet is created it will persist.
+3. The scripts which power the data integrations are hastily written using no particular style constraints. Might be worth a refactor at some point.
+4. The calculation time of this sheet is very long. Whenever referencing metrics here, be sure that it has finished calculating by watching for a striped progress bar in the top right of the sheet.
+5. As the sheet grows over time with new bundles, the calculation times will only get worse. Also, with more sales being added to the OP Orders tab all the time, eventually the sheet will hit Google's limits for spreadsheet size. It would be a good idea to modify the sheet before that point to make it run better. Most likely this will entail simply removing older bundles (and their purchases) from this sheet, and moving them to a duplicate version to act as an archive. That is, create a copy of this sheet, label it "2018 Bundle Reporting Archive" and move all of 2018's data to it. You could improve the performance of that sheet further by creating a new display system that didn't require many calculations to switch between bundles, OR even simply show the dashboard for each bundle in that sheet, pasted as values so there's no calculation at all. As you can see, there's lots of options here, but the point is, the main sheet is getting too big, so some archival will be required soon.
